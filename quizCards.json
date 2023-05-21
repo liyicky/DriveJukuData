@@ -1,0 +1,1156 @@
+[{
+    "id": 1,
+    "engQuestion": "When driving, it's important to follow traffic regulations and there's no need to concern oneself with accommodating other drivers and pedestrians.",
+    "jpQuestion": "交通規則に従う限り、他のドライバーや歩行者との相互配慮について心配する必要はありません。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["Developing a mindset of mutual consideration and empathy is crucial in our interactions with others. In situations where you come across pedestrians struggling to cross the street or drivers trying to enter the traffic flow, it's essential to put yourself in their shoes and see things from their perspective. By doing so, we can foster a culture of giving and taking, making the world a more understanding and compassionate place.", "他者に思いやりを持ち、相手の視点を考慮することは重要です。歩行者が横断できずに苦労している場面や、車の運転手が交通に組み込まれようとしている場面に遭遇することがあります。相手の立場に立って物事を考えるように心がけましょう。"]
+}, {
+    "id": 2,
+    "engQuestion": "When driving, it's important to not just prioritize one's own convenience and avoid actions like creating excessive noise that could disturb people living adjacent to the road on which you're driving.",
+    "jpQuestion": "運転する際には、自分の利便性だけでなく、道路沿いに住んでいる人々のことも考えるべきです。例えば、騒音が過剰で周りの人々を妨げるような行為は避けなければなりません。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["Always be considerate of others, whether they are drivers, pedestrians, or residents living near the road. Take care not to inconvenience them, such as by making excessive noise or parking in places that may cause inconvenience.", "常に他人を考え、配慮しましょう。運転者、歩行者、道路沿いに住む人々を気遣いましょう。余分な騒音を出したり、他人に迷惑をかけるような場所に駐車しないようにしましょう。"]
+}, {
+    "id": 3,
+    "engQuestion": "The driver cannot be held responsible for accidents that are caused by passengers inadvertently opening car doors.",
+    "jpQuestion": "運転者は、同乗者が誤って車のドアを開けたことによる事故について責任を負いません。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["As a driver, it's your responsibility to prioritize the safety of your passengers. Before they open a door, you should make sure that the area behind the vehicle is safe. Additionally, to prevent any accidental openings, always keep the doors locked.", "乗客の安全を常に確保しましょう。ドアを開ける前に、乗車口周辺が安全であることを確認することが、あなたの責任です。また、ドアが誤って開かれることを防ぐために、常にドアを施錠しておきましょう。"]
+}, {
+    "id": 4,
+    "engQuestion": "Following traffic regulations while driving not only protects the lives of others but also ensures your safety.",
+    "jpQuestion": "交通規則に従って運転することは、他人の命を守るだけでなく、自分の命も守ることにつながります。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["Traffic regulations are a set of rules that all road users must follow to ensure safety and maintain smooth traffic flow. Drivers have a social responsibility to obey traffic regulations and prevent endangering or inconveniencing others.", "道路を利用する際は、常に他人を考慮しましょう。交通法規を守り、安全でスムーズな交通を確保しましょう。運転者として、他人に危険や不便を引き起こさないようにする責任があります。"]
+}, {
+    "id": 5,
+    "engQuestion": "The primary objectives of the Road Traffic Law are to prevent hazards on the roads, ensure traffic safety, and facilitate smooth traffic flow. However, it is not aimed at preventing traffic pollution.",
+    "jpQuestion": "道路交通法の目的は、国内の道路での危険を予防し、交通安全を確保し、交通の円滑な流れを促進することであり、交通公害の防止を目的としたものではありません。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["The Road Traffic law aims to achieve four goals:\n\nTo prevent accidents and hazards on the nation's roads.\nTo ensure the safety of people and vehicles on the nation's roads.\nTo promote the smooth flow of traffic on the nation's roads.\nTo prevent environmental problems, such as traffic pollution, caused by road traffic.", "道路交通法の目的は次の4つです：\n\n国の道路上での危険や災害を防止すること。\n国の道路上での人と車両の安全を確保すること。\n国の道路上での交通のスムーズな流れを促進すること。\n道路交通による交通汚染などの環境問題を防止すること。"]
+}, {
+    "id": 6,
+    "engQuestion": "Seatbelts offer several advantages, including minimizing harm in the event of an accident and decreasing driver fatigue during extended periods of driving.",
+    "jpQuestion": "シートベルトには、事故による怪我を軽減する効果や、運転中の疲労を軽減する効果など、様々な利点があります。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["Wearing a seatbelt can significantly decrease the risk of injury in the event of a traffic accident. Additionally, it can help prevent fatigue by keeping your body in a proper driving position.", "シートベルトを着用することで、交通事故に巻き込まれた場合の負傷リスクを大幅に減らすことができます。さらに、適切な運転姿勢を保つことで疲労を防止することができます。"]
+}, {
+    "id": 7,
+    "engQuestion": "Wearing clothing that exposes as much skin as possible is recommended when riding a motorcycle.",
+    "jpQuestion": "二輪車に乗る際は、できるだけ肌を露出の多い服装をするべきです。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["To operate a two-wheeled vehicle, it is important to wear a properly adjusted motorcycle helmet, protective clothing that covers your skin as much as possible, and other protective gear. Passengers on a large or regular motorcycle must also wear helmets. It is recommended to wear brightly colored clothing that is easily visible. At night, it is best to wear clothing that has reflective materials or a helmet with reflective stickers attached.", "二輪車を運転する場合は、正しく調整されたバイク用ヘルメット、皮膚をできるだけ覆う保護服、およびその他の保護具を着用することが重要です。大型または通常のバイクに乗る場合は、乗客もヘルメットを着用する必要があります。目立つ明るい色の服装を着用することをお勧めします。夜間に運転する場合は、反射材が付いた衣服やヘルメットを着用することが最適です。"]
+}, {
+    "id": 8,
+    "engQuestion": "All vehicles are permitted to proceed straight ahead or turn left or right when the traffic light is green.",
+    "jpQuestion": "すべての車両が直進または左右に曲がることができることを示す、青色の信号があります。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["When a traffic light is green, it means different things depending on the type of vehicle. For pedestrians, it's safe to cross the street. For most vehicles, including cars and trucks, it means they can go straight or turn left or right. However, for light vehicles like bicycles and carts, they can only go straight or turn left. If they need to turn right, they have to use a two-step method.", "信号が緑色の場合、車両の種類によって意味が異なります。歩行者は渡ることができます。車やトラックなどの大型車は直進や左右折ができます。ただし、自転車やカートなどの軽車両は直進や左折しかできません。右折する場合は、二段階式を使わなければなりません。"]
+}, {
+    "id": 9,
+    "engQuestion": "The hand signal shown on the right by a police officer is equivalent to a yellow light for traffic proceeding in the directions indicated by the arrows.",
+    "jpQuestion": "警察官が右側に示すような手信号を示している場合、矢印の方向に進む交通にとっては、黄色い信号灯と同じ意味であることを示します。",
+    "answer": false,
+    "hasImage": true,
+    "description": ["When a police officer or traffic control personnel raises their arms straight up, it has different meanings depending on the direction of traffic:\n\nIf the traffic is going in the same direction as the officer, this hand signal is equivalent to a yellow light, indicating that drivers should slow down and be prepared to stop if necessary.\nIf the traffic is facing the side of the officer, this hand signal means the same as a red light, indicating that drivers should come to a complete stop and wait for further instructions.", "警察官や交通誘導員が両手を真っ直ぐ上げた場合、交通の進行方向によって意味が異なります:\n\n交通が警察官と同じ方向に進んでいる場合、この手信号は黄色信号と同じであり、運転手は減速し、必要に応じて停止する準備をしなければなりません。\n交通が警察官の横を向いている場合、この手信号は赤信号と同じであり、運転手は完全停止し、さらなる指示を待つ必要があります。\n\n\n"]
+}, {
+    "id": 10,
+    "engQuestion": "You should come to an immediate stop before the stop line when there is an intersection with a traffic signal and a marked stop line on the road.",
+    "jpQuestion": "停止線が道路に描かれている信号機のある交差点では、直前で車を停止する必要があります。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["Whenever there is a stop line accompanying a traffic signal, it is important to come to a complete halt right before the line.", "交通信号がある場合、停止線がある場合は、停止線の直前で完全停止することが重要です。"]
+}, {
+    "id": 11,
+    "engQuestion": "When a traffic signal changes from yellow to red, the signal for cross traffic changes to green immediately, allowing them to proceed without delay.",
+    "jpQuestion": "赤色に変わった信号に対面する交通は、直ちに青に変わるため、すぐに進むことができます。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["There are people who, while waiting at a red traffic signal, watch the signal for cross traffic and proceed through the intersection when they see it turn yellow and then red, even though their own signal is still red. However, it's important to note that at some intersections, the signal for your direction of travel may not turn green immediately when the signal for cross traffic turns red. Therefore, it's crucial to always obey the signal that is directly in front of you.", "交差する車両の信号が黄色や赤に変わるのを見て、自分の信号がまだ赤でも無理やり交差点に進入する人がいます。しかし、一部の交差点では、交差する車両の信号が赤に変わっても自分の進行方向の信号がすぐに緑にならない場合があります。そのため、常に自分の直前の信号に従うことが重要です。"]
+}, {
+    "id": 12,
+    "engQuestion": "Assuming there may be lagging pedestrians is wise if a large truck in the adjacent lane does not proceed when the signal changes to green.",
+    "jpQuestion": "大型車などが隣の車線で青信号になったのに進まない場合は、歩行者が遅れている可能性があると思って行動するのが賢明です。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["When the signal in front of you turns green, it's possible that some pedestrians might still be crossing the street after their signal has turned red. It's important to empathize with them and show consideration in these situations.", "目の前の信号が青に変わっても、まだ横断歩道を渡り終えていない歩行者がいるかもしれません。こうした状況においては、相手の立場に立って思いやりを示すことが重要です。"]
+}, {
+    "id": 13,
+    "engQuestion": "The five main types of signs are regulatory signs, designation signs, warning signs, guidance signs, and auxiliary signs.",
+    "jpQuestion": "標識には、規制標識、指示標識、警告標識、案内標識、補助標識の5種類があります。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["There are four types of main signs: regulatory signs; designation signs; warning signs; and guidance signs.", "主要な標識には、規制標識、指定標識、警告標識、案内標識の4種類があります。"]
+}, {
+    "id": 14,
+    "engQuestion": "There are two types of pavement markings: regulatory markings and designation markings. These markings include lines, symbols, letters, and more, and are created on roads using paint, rivets, and other materials.",
+    "jpQuestion": "「表示」とは、ペンキやリベットなどを使用して道路に描かれた線、シンボル、文字などのことで、規制表示と指示表示の2種類があります。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["Pavement markings can be divided into two main types: regulatory markings and designation markings. Regulatory markings are used to indicate prohibitions or restrictions such as \"No Parking\" or \"No Entry\". Designation markings, on the other hand, indicate the intended use of a specific area of the road, such as \"Pedestrian Crossing\" or \"Lane Direction\".", "舗装マーキングには、規制マーキングと指定マーキングの2つの主要なタイプがあります。規制マーキングには、「駐車禁止」や「進入禁止」などの禁止事項や制限事項を示すものがあります。一方、指定マーキングは、道路の特定の領域の使用を示すために、「横断歩道」や「車線方向」などがあります。"]
+}, {
+    "id": 15,
+    "engQuestion": "The meaning of this sign is 'closed to all vehicles' and it signifies that vehicles and streetcars are prohibited from entering the designated road.",
+    "jpQuestion": "この標識は「車両通行止め」であり、車や路面電車は通行してはいけないことを示している。",
+    "answer": false,
+    "hasImage": true,
+    "description": ["This is the sign for \"No Entry for Vehicles\". It is posted in locations such as exits from one way streets and indicates that vehicles are prohibited from entering from that particular direction.", "これは「車両進入禁止」の標識です。一方通行の出口などに設置され、その方向からの車両進入が禁止されていることを示します。"]
+}, {
+    "id": 16,
+    "engQuestion": "The meaning of these two signs is identical.",
+    "jpQuestion": "これらの二つの標識は、同じ意味を持っています。",
+    "answer": true,
+    "hasImage": true,
+    "description": ["These signs indicate the \"End of Traffic-Regulation.\" The red arrow points toward the direction you are coming from, so be careful not to mistake it for its counterpart which points in the direction you are entering and means \"Start of Traffic-Regulation.\"\n", "これらのサインは「交通規制終了」を示します。赤い矢印があなたが来た方向を指しているので、進入する方向を指して「交通規制開始」を意味するサインと間違えないように注意してください。"]
+}, {
+    "id": 17,
+    "engQuestion": "A police officer can direct you to drive on a pedestrian path to ease traffic congestion.",
+    "jpQuestion": "警察官から混雑緩和のために指示があった場合、歩行者用の道路を運転することが許可されます。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["When traffic flow is significantly obstructed and there is a risk of serious congestion, police officers may restrict or limit traffic in specific areas, or direct drivers to back up or perform other special maneuvers to relieve congestion and ensure the smooth flow of traffic. In these situations, drivers must follow the instructions of the police officers.\n", "警察官が交通の流れが大きく妨げられ、深刻な渋滞の危険がある場合には、特定の地域で交通を制限したり、車両をバックアップしたり、他の特別な操作を行って混雑を緩和し、道路のスムーズな流れを確保するよう指示することがあります。このような場合には、運転者は警察官の指示に従わなければなりません。"]
+}, {
+    "id": 18,
+    "engQuestion": "If there are no designated lanes on the road, you are allowed to drive on any part of the road located to the left of its center.",
+    "jpQuestion": "「車両通行帯」のない道路では、道路の中央から左側であれば、どこでも進むことができます。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["No, you cannot proceed on any part of the road. You must proceed on the left side of the road, not in the center or the right. Light vehicles must proceed on the left edge of the road.", "道路のどの部分でも進むことはできません。あなたは道路の左側を進まなければなりません、中央や右側ではありません。軽自動車は道路の左端を進む必要があります。"]
+}, {
+    "id": 19,
+    "engQuestion": "In some cases, the center line of a road may not be located in the exact middle of the road.",
+    "jpQuestion": "センターライン（中央線）は、道路の中央にあるとは限らない場合があります。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["Sometimes the center line may not be situated in the middle of the road. In some cases, the center line could be located differently due to the number of lanes on either side of the road, or it may change depending on the traffic situation.", "時には中央線が道路の中央に配置されていない場合があります。左右の車線数が異なる道路や、交通状況に応じて中央線の位置が変わる道路など、様々な道路の構成が存在することがあります。"]
+}, {
+    "id": 20,
+    "engQuestion": "When there are two lanes on a road for vehicles traveling in the same direction, the right lane is for faster vehicles and the left lane is for slower vehicles.",
+    "jpQuestion": "同じ方向に2車線がある場合、速い車は右側の車線を使い、遅い車は左側の車線を使います。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["\nOn roads with two lanes for traffic traveling in the same direction, vehicles must use the left lane for driving and overtaking should be done from the right lane.", "同じ方向に向かう交通が2つの車線がある道路では、車両は左側の車線を使用する必要があります。（右側の車線は追い越しに使用されます。）"]
+}, {
+    "id": 21,
+    "engQuestion": "You are allowed to pass through the safety zone as long as there are no pedestrians present within it.",
+    "jpQuestion": "歩行者がいない場合は、安全地帯を通行することができます。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["It is important to observe pavement markings indicating \"safety zone\" or \"no entry zone\" and avoid driving into these areas, even if there are no pedestrians present. These zones are closed to traffic and must be respected for the safety of all road users.", "道路の舗装マークに「安全地帯」や「進入禁止地帯」といった表示がある場合、車両はそこに進入してはなりません。歩行者がいなくても、これらの地帯は車両に閉鎖されており、全ての道路利用者の安全のために尊重しなければなりません。"]
+}, {
+    "id": 22,
+    "engQuestion": "This pavement marking designates a no stopping zone.",
+    "jpQuestion": "こちらの表示は、「停止禁止ゾーン」を示すために使われます。",
+    "answer": false,
+    "hasImage": true,
+    "description": ["This pavement marking indicates a \"no entry zone\" and it is not meant to indicate a \"no stopping zone.\" Motor vehicles are not allowed to enter into an area that is marked by this pavement marking.", "この道路標示は「進入禁止区域」を示しており、「停止禁止区域」を示しているわけではありません。車両は、この標示で定義されたエリアに進入することができません。"]
+}, {
+    "id": 23,
+    "engQuestion": "All types of vehicles may drive on pedestrian walkways, but they must be careful of pedestrians and drive slowly.",
+    "jpQuestion": "歩行者用道路では、歩行者に注意しつつ、車両は徐行して通行できます。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["Vehicles are strictly prohibited from driving on pedestrian walkways, except for vehicles with a garage at the roadside or those which are specifically authorized to do so.", "歩道に車両を走らせることは絶対に禁止されています。ただし、道路脇にガレージがある場合や、明示的に許可されている車両を除いては、例外はありません。"]
+}, {
+    "id": 24,
+    "engQuestion": "The sign indicates that only ordinary passenger vehicles are allowed to travel on streetcar tracks.",
+    "jpQuestion": "この標識は、一般の乗用車のみが路面電車の線路を走行できることを示しています。",
+    "answer": false,
+    "hasImage": true,
+    "description": ["This sign indicates that all vehicles are permitted to drive on the streetcar tracks. However, it's important to remember that when a streetcar approaches from behind, you must either leave the tracks or keep a safe distance to avoid collisions.", "この標識は、すべての車両が路面電車の軌道を走行できることを意味します。ただし、後ろから路面電車が接近している場合は、軌道から離れるか、安全な距離を保つ必要があることを忘れないでください。"]
+}, {
+    "id": 25,
+    "engQuestion": "If there are no pedestrians around, it is allowed to slow down only when driving across a sidewalk or a side strip.",
+    "jpQuestion": "歩行者がいないことが確認できる場合には、歩道や側溝を横断する前に減速するだけで通行することができます。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["When crossing a sidewalk or a side strip, vehicles must come to an immediate stop before the designated area, and ensure that they do not obstruct the movement of pedestrian traffic. Drivers must stop regardless of whether pedestrians are present or not.\n", "歩道や側面帯を横断する車両は、歩行者の流れを妨げないように、歩道や側面帯の手前ですぐに停止しなければなりません。歩行者がいなくても、ドライバーは歩道の手前ですぐに停止しなければなりません。"]
+}, {
+    "id": 26,
+    "engQuestion": "When an emergency vehicle is approaching in areas other than intersections or near intersections, you must yield your path to the left (except for one-way streets).",
+    "jpQuestion": "一方通行を除く、交差点や交差点付近以外の場所で、緊急自動車が接近している場合、進路を左側に譲る必要があります。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["In areas other than intersections or their vicinity, vehicles should give way to approaching emergency vehicles by moving to the left side of the road.", "交差点やその周辺以外の場所において、緊急車両が接近してくる場合、車は道路の左側に移動して優先通行するようにしなければならない。"]
+}, {
+    "id": 27,
+    "engQuestion": "On a one-way road, it is necessary to move to the left side of the road to give way when yielding to an emergency vehicle.",
+    "jpQuestion": "一方通行の道路に緊急自動車が近づいてきた場合は、左側に寄って進路を譲る必要があります",
+    "answer": false,
+    "hasImage": false,
+    "description": ["\nIn certain situations on one-way roads, drivers must move to the right side of the road to yield to an approaching emergency vehicle if moving to the left side would hinder the progress of the emergency vehicle.", "ある場合、片側通行の道路では、左側に移動することが緊急車両の進路を妨げる場合、右側に移動する必要があります。"]
+}, {
+    "id": 28,
+    "engQuestion": "Lanes indicated by this sign may be used by special light equipment, mopeds, and light vehicles.",
+    "jpQuestion": "この標識がある通行帯は、特殊な照明装置を備えた車両、原動機付き自転車、軽自動車が通行できることを意味します。",
+    "answer": true,
+    "hasImage": true,
+    "description": ["Under normal circumstances, vehicles such as special light equipment, mopeds, and light vehicles are prohibited from using the lane specified by this sign. However, it is permitted to use the exclusive lane when moving to the right edge to turn right or left, when it is impossible to avoid using the lane due to road construction, or when you need to allow an emergency vehicle to pass.", "通常、この標識で指定された車線は特別な軽量機器、原付バイク、軽自動車の使用が禁止されています。ただし、右折や左折を実行するために右端に移動する場合、道路工事のために車線を使用せざるを得ない場合、緊急車両の通行を許可する必要がある場合は、専用レーンを使用することが許可されています。"]
+}, {
+    "id": 29,
+    "engQuestion": "During heavy traffic, vehicles are allowed to use lanes designated by signs or pavement markings as priority lanes for local buses or similar vehicles.",
+    "jpQuestion": "交通が混雑している場合、標識や道路の表示によって優先通行帯が指定された路線バスなどの通行帯を利用することができます。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["Motor vehicles can use priority lanes except when the traffic is heavy and it could prevent the driver from exiting the lane immediately if a local bus or similar vehicle approaches.", "自動車は優先レーンを利用できますが、交通が混雑しており、路線バスなどが近づいてきた場合、すぐに車線を離れられない可能性がある場合を除いて利用できます。"]
+}, {
+    "id": 30,
+    "engQuestion": "When driving in a priority lane designated for local buses or similar vehicles, and a school bus carrying nursery or kindergarten students approaches, it is necessary to vacate the priority lane.",
+    "jpQuestion": "普通自動車で路線バスなどの優先通行帯を走行していたとき、保育園や幼稚園の児童用通園バスが近づいてきた場合、優先通行帯から出て道を譲る必要があります。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["If a local bus or similar vehicle (e.g. school bus) approaches, automobiles traveling in a priority lane or local buses or similar must leave the lane immediately to avoid blocking the bus's path.", "優先車線を走行中の自動車や、ローカルバスなどは、地方バスなどが接近する場合は、即座に車線を離れなければなりません。"]
+}, {
+    "id": 31,
+    "engQuestion": "When making a right turn at an intersection from a two-way street (excluding roundabouts), the vehicle should approach the intersection as close to the center of the roadway as possible, and then carefully make the turn while slowing down and staying within the center of the intersection.",
+    "jpQuestion": "自動車は、環状交差点を除く一方通行でない道路の交差点で右折する場合、交差点にできるだけ中央に近づき、交差点の中心に近い位置で徐行しながら進入する必要がある。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["When making a right turn, the vehicle should first approach the turn as close as possible to the center of the road (or the right edge for one-way streets) while reducing speed.\n", "右折する場合、車両は減速しながら、道路の中心（一方通行の場合は右端）に近づくようにしてターンする必要があります。"]
+}, {
+    "id": 32,
+    "engQuestion": "This sign means that you must continue driving on the right-hand side of the sign.",
+    "jpQuestion": "この標識がある場合は、右側を通過しなければなりません。",
+    "answer": false,
+    "hasImage": true,
+    "description": ["It is forbidden to proceed on the right side of the sign. Proceeding left is acceptable. ", "看板の右側を進むことは禁止されています"]
+}, {
+    "id": 33,
+    "engQuestion": "When making a right turn at intersections, mopeds should follow the same procedure as other vehicles unless they are using the two-step method.",
+    "jpQuestion": "原動機付き自転車は（二段階右折をする場合を除き）、交差点で右折する際には自動車と同じ方法を使用する必要があります。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["When riding a two-wheeled vehicle on a wide street, it is important to move to the right side of the road and into the right-turn lane in advance of the intersection in order to execute a right turn using the direct turn method.", "直進右折をする場合、二輪車の場合、広い道路を走っている場合、交差点手前で右側のレーンに徐々に移動することが重要です。\n\n\n\n"]
+}, {
+    "id": 34,
+    "engQuestion": "\"Wheelbase differential\" refers to the difference in the distance between the front and rear wheels of a vehicle during a turn.",
+    "jpQuestion": "車が曲がる際に前輪と後輪の位置に差が生じることを内輪差という。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["During a turn, the rear wheel of a vehicle follows a path that is closer to the inside of the turning arc than the front wheel, creating a difference in position known as the wheelbase differential. The wheelbase differential tends to increase as the distance between the front and rear wheels becomes longer.", "車両が曲がる時、後輪は前輪よりも曲線の内側に近い軌跡を描きます。この前後輪の位置の違いをホイールベース差と呼びます。一般的に、前後輪の距離が長いほど、ホイールベース差は大きくなります。"]
+}, {
+    "id": 35,
+    "engQuestion": "Differential in wheelbase occurs during left turns, but not during right turns.",
+    "jpQuestion": "「内輪差」とは、車両が曲がるときに前輪と後輪の位置に生じる差異を指します。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["Wheelbase differentials occur during both left and right turns.\n\n\n\n\n", "ホイールベースの差は、左折時と右折時の両方で発生します。"]
+}, {
+    "id": 36,
+    "engQuestion": "Vehicle A may proceed before vehicle B at an intersection depicted in the image.",
+    "jpQuestion": "この図のような交差点では、A車はB車よりも先に進むことができます。",
+    "answer": false,
+    "hasImage": true,
+    "description": ["If the cross street has a right of way or is wider, you must slow down and avoid blocking the progress of vehicles on the cross street. The term \"right of way\" refers to roads that are marked with a right of way sign or have a center line that continues through the intersection.", "もし横断する道路に優先道路がある場合や、横断する道路がより広い場合は、自動車は減速しなければならず、横断する車両の進行を妨げてはいけません。優先道路とは、優先道路標識が設置されている道路や、中央線が交差点を通過する道路のことを指します。"]
+}, {
+    "id": 37,
+    "engQuestion": "You may proceed through a railway crossing without stopping if the crossing gate is up and the alarm is not sounding.",
+    "jpQuestion": "踏切の警報機が鳴っておらず、かつしゃ断機が上がっている場合は、停止せずに通過することができます。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["To cross a railway, you must stop your vehicle completely just before the railway crossing, open the window, visually check both the left and right sides, and listen for any audible warnings to ensure that it is safe to proceed.", "鉄道を横断する前に、車両を鉄道の手前で完全に停止し、窓を開けて左右の領域を視覚的および音響的に確認して安全に進行できることを確認する必要があります。"]
+}, {
+    "id": 38,
+    "engQuestion": "To pass through a railway crossing, you should maintain a constant speed and stay close to the center of the road without changing gears. Do not stop your vehicle.",
+    "jpQuestion": "踏切を通過する際には、変速操作をせずに車両を中央寄りに寄せ、停止せずに進むようにしてください。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["To avoid stalling the engine, do not shift gears while you are crossing the railway. Always proceed straight through in first gear. Additionally, stay as close to the center of the crossing as possible to prevent the outer wheels from going over the edge of the paved portion of the crossing.", "鉄道踏切を横断する際は、エンジンが停止しないように、ギアをシフトしないで最初のギアで直進するようにしましょう。また、舗装部分の端に外れないよう、できるだけ中央に近づいて走行してください。"]
+}, {
+    "id": 39,
+    "engQuestion": "If you have stopped at a railway crossing to check if it is safe and the alarm begins to sound, you should proceed without delay.",
+    "jpQuestion": "踏切で安全を確認するために停止した後、警報機が鳴り始めたら素早く進むべきです。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["It is prohibited for vehicles to enter a railway crossing when the alarm is ringing or when the crossing gate is either closed or in the process of closing.\n", "警報が鳴動している場合や、踏切のゲートが閉じられているか閉じる途中の場合には、車両は踏切に進入してはなりません。"]
+}, {
+    "id": 40,
+    "engQuestion": "Regular trucks are allowed to travel at a maximum speed of 50 kilometers per hour on general purpose roads where no speed limit is indicated by signs or pavement markings.",
+    "jpQuestion": "一般道路には標識や表示による最高速度の指定がなく、普通貨物自動車の最高速度は50キロメートル毎時となります。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["\nThe maximum speed allowed for all vehicles, excluding mopeds, on roads without speed limit signs or pavement markings (excluding national expressways) is 60 kilometers per hour.", "スピード制限の表示がない道路（高速道路を除く）では、原付を除く全ての車両の最高速度は時速60キロメートルとなります。\n\n\n\n"]
+}, {
+    "id": 41,
+    "engQuestion": "Large-size motorcycles may travel up to 60 kilometers per hour, and regular motorcycles may travel up to 50 kilometers per hour on general purpose roads where no speed limit is indicated by signs or pavement markings.",
+    "jpQuestion": "標識や表示により最高速度が指定されていない一般道路において、大型自動二輪車の最高速度は60キロメートル毎時、普通自動二輪車の最高速度は50キロメートル毎時までとなる。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["\nThe maximum speed allowed for all vehicles, excluding mopeds, on roads without speed limit signs or pavement markings (excluding national expressways) is 60 kilometers per hour.", "スピード制限の表示がない道路（高速道路を除く）では、原付を除く全ての車両の最高速度は時速60キロメートルとなります。\n\n\n"]
+}, {
+    "id": 42,
+    "engQuestion": "Mopeds must not exceed a maximum speed of 30 kilometers per hour on roads displaying this sign.",
+    "jpQuestion": "この標識のある道路では、原動機付自転車の最高速度は30キロメートル毎時である。",
+    "answer": true,
+    "hasImage": true,
+    "description": ["Mopeds must not exceed a speed of 30 kilometers per hour, even on roads where the speed limit indicated by signs or pavement markings is in excess of 30 km/h.", "モペッドは、速度制限が30 km/hを超える道路でも、最高速度30 km/hを超えてはいけません。"]
+}, {
+    "id": 43,
+    "engQuestion": "The stopping distance can increase in certain situations such as when the driver is tired, when the road surface is wet due to rain, or when the vehicle is carrying a heavy load.",
+    "jpQuestion": "運転手が疲れていたり、雨で路面が濡れていたり、車両に荷物が積載されている場合など、制動距離が増加することがあります。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["Four things that can increase stopping distance are:\n\nSpeed: Higher speeds require more time and distance to come to a stop.\nRoad conditions: Wet, icy, or otherwise slippery road surfaces reduce traction and increase stopping distance.\nVehicle weight: Heavier vehicles require more force to stop and therefore have a longer stopping distance.\nBrake condition: Worn or damaged brakes reduce their effectiveness and increase stopping distance.", "運転者がブレーキを踏んだとき、車両は停止するまでに時間と距離を必要とします。停止距離は、速度、路面状況、ブレーキ、タイヤの状態などの要因によって決定されます。四つの主な要因は、速度、路面の状態、ブレーキの状態、タイヤの状態です。\n\n\n\n"]
+}, {
+    "id": 44,
+    "engQuestion": "When braking, you should start by pressing down on the brake pedal with all your might.",
+    "jpQuestion": "ブレーキをかける際には、最初に強くブレーキペダルを踏み込むべきです。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["When you need to use the brakes, start by gently pressing the brake pedal and then gradually increase the pressure as necessary.", "ブレーキを使用する場合は、軽くブレーキペダルを踏んだ後、必要に応じて徐々に圧力を高めてください。"]
+}, {
+    "id": 45,
+    "engQuestion": "To brake on a two-wheeled vehicle, you should use both the front and rear brakes at the same time.",
+    "jpQuestion": "二輪車でブレーキをかける場合、前輪ブレーキと後輪ブレーキを同時に使用する必要があります。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["To slow down on a two-wheeled vehicle, it's important to avoid turning the handlebars. Instead, you should release the throttle and use engine braking while simultaneously applying the brakes on the front and rear wheels.\n", "二輪車で減速する場合は、ハンドルを曲げないようにすることが重要です。代わりに、スロットルを戻してエンジンブレーキを利用し、同時に前輪と後輪のブレーキをかける必要があります。"]
+}, {
+    "id": 46,
+    "engQuestion": "The action of reducing the speed from 60 kilometers per hour to 20 kilometers per hour is considered as \"slowing down\".",
+    "jpQuestion": "60キロメートル毎時から20キロメートル毎時へ減速することは「減速」とみなされます。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["In Japan, \"slowing down\" is defined as reducing the speed to a level where the vehicle can be stopped immediately, usually at a speed of 10 kilometers per hour or less.", "「減速」とは、車両を直ちに停止できる速度まで減速することを指します。通常、時速10キロメートル以下の速度です。"]
+}, {
+    "id": 47,
+    "engQuestion": "It is necessary to slow down at corners on the road, even if visibility is good.",
+    "jpQuestion": "視界が良好であっても、道路のカーブでは速度を落とす必要があります。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["In addition to slowing down at corners, \"slow down\" signs, and intersections with poor visibility to the right or left, it is also necessary to slow down near the top of an uphill and along steep downward slopes.", "曲がり角、減速標識、視界の悪い交差点、上り坂の頂上、急な下り坂では常にスピードを落とす必要があります。"]
+}, {
+    "id": 48,
+    "engQuestion": "When driving on roads with steep inclines, you must reduce your speed.",
+    "jpQuestion": "急勾配のある道路を運転する場合は、速度を落とす必要があります。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["In addition to slowing down at corners, \"slow down\" signs, and intersections with poor visibility to the right or left, it is also necessary to slow down near the top of an uphill and along steep downward slopes. You do not need to slow down on upward slopes. ", "以下の場合、減速が必要です。\n\n曲がり角\n\"減速\"の標識\n右または左の視界が悪い交差点\n坂道の頂上付近\n急な下り坂\nしかし、上り坂では減速する必要はありません。"]
+}, {
+    "id": 49,
+    "engQuestion": "You must either leave a safe, wide berth or slow down when passing near a pedestrian or bicycle.",
+    "jpQuestion": "歩行者や自転車に近づくときは、安全で広いスペースを空けるか、スピードを落とす必要があります。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["When driving past a pedestrian on the side of the road, it is necessary to keep a safe distance from the person. If it is impossible to keep a safe distance, the driver must slow down.", "歩道脇を歩行する人がいる場合、運転者は安全かつ十分な距離を保って通過する必要があります。距離を保つことができない場合は、運転者は減速する必要があります。"]
+}, {
+    "id": 50,
+    "engQuestion": "Even if there are no pedestrians present, it is necessary to reduce speed when passing a safety zone.",
+    "jpQuestion": "歩道や横断歩道等の安全地帯を通過する際には、歩行者がいなくても、速度を減速する必要があります。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["If pedestrians are present in a safety zone while driving, the driver must reduce their speed. (If there are no pedestrians in the safety zone, there is no need to slow down.)", "安全地帯に歩行者がいる場合、運転手は速度を減速する必要があります（安全地帯に歩行者がいない場合は、減速する必要はありません）。"]
+}, {
+    "id": 51,
+    "engQuestion": " If there is a safety zone and a streetcar stopped at a streetcar stop, you only need to slow down when approaching from the rear, even if passengers are getting on or off.",
+    "jpQuestion": "安全地帯があり、停留所で停車中の路面電車に後方から接近する場合、乗降客がいても、徐行して通過するとができます。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["If passengers are disembarking from a streetcar, the driver must stop behind the streetcar and wait. However, this rule does not apply if there is a safety zone or if there is no safety zone but no one is getting on or off the streetcar and there is a gap of 1.5 meters or more between the vehicle and the streetcar.", "路面電車から乗客が降りる場合、運転手は路面電車の後ろで停止して待たなければなりません。ただし、安全地帯がある場合や、安全地帯がなくても誰も乗り降りしていない場合で、車両と路面電車の間に1.5メートル以上の隙間がある場合は、この規則は適用されません。"]
+}, {
+    "id": 52,
+    "engQuestion": "When passing vehicles that have stopped at a pedestrian crossing, you must be cautious of pedestrians and reduce your speed.",
+    "jpQuestion": "歩行者用横断歩道の車両が停止している場合、歩行者に注意しつつ、速度を落とす必要があります。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["\nIf a vehicle is stopped at or before a pedestrian crossing, the driver must stop before passing the stopped vehicle.", "歩行者横断歩道で車両が停止している場合、ドライバーはその停止車両を通り過ぎる前に停止する必要があります。"]
+}, {
+    "id": 53,
+    "engQuestion": "When you see a child, you must be extra cautious while driving because children may become absorbed in what they are doing and suddenly run into the road.",
+    "jpQuestion": "子供は注意を集中させて道路に突然飛び出すことがあるため、子供を見かけた場合は特に注意して運転しなければなりません。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["Children can become engrossed in something they are looking at and suddenly run into the road or attempt to cross the road at inappropriate locations due to a lack of judgement.", "子供は注意を引くものに夢中になり、突然道路に飛び出すことがあります。また、判断力の欠如により、不適切な場所で道路を横断しようとすることがあります。\n\n\n\n"]
+}, {
+    "id": 54,
+    "engQuestion": "Passing or overtaking a vehicle displaying a novice driver sign or senior driver sign is prohibited.",
+    "jpQuestion": "初心者運転者標識または高齢者運転者標識を表示している車両を追い越すことは禁止されています。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["Novice drivers and senior drivers in Japan are required to display a special sign on their vehicles. It is acceptable to overtake or pass a vehicle displaying these signs, but it is important to do so with caution and to maintain a safe distance from the vehicle.", "日本では、初心者ドライバーや高齢者ドライバーは、車両に特別な表示をすることが義務付けられています。これらの表示がある車両を追い越したり通過したりすることは認められていますが、注意して行い、車両と安全な距離を保つことが重要です。"]
+}, {
+    "id": 55,
+    "engQuestion": "Before changing lanes, check your current position and then signal your intention.",
+    "jpQuestion": "車線変更する場合、まず自分の位置を確認し、次にウィンカーを出す必要があります。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["Before making any maneuver such as turning left or right, changing lanes, making a U-turn, or backing up, it is important for the driver to check the surroundings carefully. Once the driver is certain it is safe to do so, they should signal their intent to turn or change lanes and continue signaling until the action is complete.", "左折、右折、車線変更、Uターン、バックする前には、まず周囲を注意深く確認する必要があります。安全が確認できたら、方向指示器を出し、その操作が完了するまで続けるようにしましょう。"]
+}, {
+    "id": 56,
+    "engQuestion": "You should activate your turn signal three seconds before turning left or right.",
+    "jpQuestion": "左折または右折する意向がある場合は、3秒前にウィンカーを点滅させる必要があります。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["The driver needs to signal 30 meters in advance of the point where they intend to make a left or right turn, and about 3 seconds in advance before changing lanes.\n", "ドライバーは、左右折を行う予定の地点まで30メートル、車線変更を行う前に約3秒間、信号を出す必要があります。"]
+}, {
+    "id": 57,
+    "engQuestion": "This hand signal being given by the two-wheeled vehicle indicates the same as operating the right turn signal when viewed from behind.",
+    "jpQuestion": "後ろから見た場合、二輪車が出しているこの手信号は、右方向指示器を操作するのと同じ意味を示します。",
+    "answer": true,
+    "hasImage": true,
+    "description": ["To signal a right turn on a two-wheeled vehicle in Japan, the rider should extend their left arm at a 90 degree angle to the side of the vehicle. To signal a left turn, the rider should extend their left arm horizontally to the side of the vehicle.", "二輪車で右折する際は、ライダーは左腕を車体の左側に90度の角度で伸ばします。左折する場合は、ライダーは左腕を車体の左側に水平に伸ばします。"]
+}, {
+    "id": 58,
+    "engQuestion": "You should keep your turn signal on until you have completed the turn, whether it's a left or right turn.",
+    "jpQuestion": "左右折などを行う場合は、ターンシグナルを完了するまで点灯し続けなければなりません。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["Drivers must keep their signal lights on until they have completed their turn or lane change.", "ドライバーは、自分の曲がり角などが完了するまで、信号を続けることが求められます。\n\n\n\n"]
+}, {
+    "id": 59,
+    "engQuestion": "You must sound your horn in places where this sign is displayed.",
+    "jpQuestion": "この標識のある場所では、クラクションを鳴らさなければなりません。",
+    "answer": true,
+    "hasImage": true,
+    "description": ["The driver is required to sound the vehicle's horn when passing a \"sound horn\" sign.", "「クラクション鳴らし」の標識を通過する際には、ドライバーは車両のクラクションを鳴らす必要があります。"]
+}, {
+    "id": 60,
+    "engQuestion": "It is necessary to sound your horn at an intersection if visibility is poor, even if there are no horn sounding zone signs present.",
+    "jpQuestion": "交差点の視界が悪い場合は、ホーン鳴音ゾーンの標識がなくても、ホーンを鳴らす必要があります。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["The driver should not use the horn excessively or in situations where it is not allowed, such as in quiet residential areas or at night. However, the horn can be used in emergency situations to warn others of danger.", "ドライバーは、静かな住宅地や夜間など、使用が許可されていない状況での過度な使用は避けなければなりません。ただし、緊急時には危険を回避するために警告のために使用することができます。"]
+}, {
+    "id": 61,
+    "engQuestion": "Even if you need to make a right or left turn, you cannot change lanes by crossing a yellow line demarcating vehicular lanes.",
+    "jpQuestion": "車線が黄色い線で区切られている場合、右折または左折する必要があっても、車線を越えて車線変更することはできません。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["Even when changing lanes to turn left or right, or to overtake another vehicle, drivers must not cross the yellow centerline.", "右折や左折をするため、あるいは追い越しをするために車線変更を行う場合でも、黄色い実線を越えてはなりません。"]
+}, {
+    "id": 62,
+    "engQuestion": "When an emergency vehicle needs to pass, you are allowed to change lanes by crossing a vehicular lane demarcated by a yellow line.",
+    "jpQuestion": "緊急車両が通過する必要がある場合、黄色い線で区切られた車線を横断して車線変更をすることができます。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["When making way for an emergency vehicle or when it is not possible to continue driving in the current lane due to road damage or construction, it is allowed to cross the yellow line to change lanes.", "黄色の実線を越えて車線変更することは、緊急車両の通行を妨げないために車線変更する場合や、道路の損傷や工事により、現在の車線で進行することができない場合に許可されています。"]
+}, {
+    "id": 63,
+    "engQuestion": "If you see these two signs together, you are not allowed to back up in that area.",
+    "jpQuestion": "これらの2つの標識が一緒に表示されている場合、その地域でバックアップすることはできません。",
+    "answer": false,
+    "hasImage": true,
+    "description": ["These signs indicate that crossing the street is prohibited, including for the purpose of reaching a store or other destination on the other side of the road, and making a U-turn is also not allowed.", "これらの標識は、道路を横断することが禁止されており、店舗など道路の反対側に行くためにも横断することはできません。また、Uターンも禁止されています。"]
+}, {
+    "id": 64,
+    "engQuestion": "You are not allowed to overtake a vehicle that is already being overtaken by another vehicle.",
+    "jpQuestion": "前の車が他の車を追い越そうとしている場合、あなたは追い越しを始めてはいけません。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["Drivers must never overtake in the following situations: when the vehicle ahead is attempting to overtake another vehicle, and when the vehicle ahead is about to change lanes.\n", "運転手は次のような状況で追い越してはなりません：前方の車両が他の車両を追い越そうとしている場合、前方の車両がレーン変更しようとしている場合。"]
+}, {
+    "id": 65,
+    "engQuestion": "Overtaking a moped is allowed even in areas where overtaking is generally prohibited.",
+    "jpQuestion": "原則として追い越しが禁止されている場所でも、原付き自動車を追い越すことが許されています。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["While driving in areas where overtaking is prohibited, it is not allowed to pass any vehicles including mopeds. However, light vehicles such as bicycles may be overtaken in a safe manner.\n", "以下の場所では追い越しが禁止されているため、原則として原付バイクを含む車両の追い越しはできません。ただし、自転車などの軽車両については安全確認をした上で追い越すことができます。"]
+}, {
+    "id": 66,
+    "engQuestion": "Even if you don't need to use the right-hand lane to pass, you must not change lanes or move alongside a car or moped to overtake it on roads with this sign.",
+    "jpQuestion": "この標識が表示されている道路では、通過に右側の車線を使用する必要がなくても、車や原付バイクを追い越すために車線変更や横断することはできません。",
+    "answer": true,
+    "hasImage": true,
+    "description": ["In any area designated by this sign, it is prohibited to overtake any vehicle. However, light vehicles, such as bicycles, can be overtaken in a safe manner.", "この標識が設置された場所では、すべての車両の追い越しは禁止されています。ただし、自転車などの軽車両は安全な方法で追い越すことができます。"]
+}, {
+    "id": 67,
+    "engQuestion": "You are allowed to overtake on curves if you have sufficient visibility of the road ahead.",
+    "jpQuestion": "カーブで前方の道路が十分に見える場合、追い越しをすることが許されています。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["Overtaking is strictly prohibited on corners or curves, as well as on top of hills, on steep downward slopes, in tunnels, at intersections, at railway crossings, or near pedestrian crossings.", "角やカーブ、山の上、急な下り坂、トンネル、交差点、鉄道踏切、横断歩道の近くでは、追い越しは厳しく禁止されています。"]
+}, {
+    "id": 68,
+    "engQuestion": "Exceeding the speed limit slightly may be unavoidable when overtaking.",
+    "jpQuestion": "追い越し時には、やや速度制限を超えることが避けられない場合がある。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["When attempting to overtake, drivers must proceed at a safe speed and use appropriate procedures for the road conditions.\n", "走行中の車両を追い越す場合、適切な速度と手順を使用し、道路の状況に応じて最大限に安全を確保する必要があります。"]
+}, {
+    "id": 69,
+    "engQuestion": "When a vehicle is being overtaken, there is no obligation to give way, even if there is insufficient space.",
+    "jpQuestion": "車両が追い越されている場合、十分なスペースがなくても優先道路を譲る必要はありません。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["When another vehicle is overtaking, the driver must not accelerate until the overtaking vehicle has finished the maneuver. If there is not enough space to be overtaken safely, the driver must yield and move to the left as far as possible.", "別の車両が追い越し中の場合、運転手は追い越し完了まで加速してはいけません。十分に追い越し可能なスペースがない場合、運転手は左に寄り、譲る必要があります。"]
+}, {
+    "id": 70,
+    "engQuestion": "When overtaking oncoming traffic, it is important to maintain a safe passing distance.",
+    "jpQuestion": "対向車両を追い越す際には、安全な間隔を保つ必要があります。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["To pass an oncoming vehicle safely, it's important to maintain a safe passing distance. When passing near pedestrians, it's also important to keep a safe distance from them.\n", "対向車両を追い越す際には、適切な安全距離を保つことが重要です。周辺に歩行者がいる場合には、彼らからも十分な距離を保つことが重要です。"]
+}, {
+    "id": 71,
+    "engQuestion": "The right of way belongs to the first vehicle that reaches an obstacle on the road ahead.",
+    "jpQuestion": "道路上に障害物がある場合、最初に障害物に到達した車両に優先権があります。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["If there is an obstacle on the road ahead, the driver must reduce speed or stop before reaching it and give way to oncoming traffic.", "道路の前方に障害物がある場合は、減速または停止して対向車両に譲る必要があります。"]
+}, {
+    "id": 72,
+    "engQuestion": "You can drive various types of vehicles with a large vehicle license, such as large vehicles, medium vehicles, quasi-medium vehicles, heavy special equipment, regular motor vehicles, light special equipment, and mopeds.",
+    "jpQuestion": "大型自動車免許を持っている場合、大型自動車、中型自動車、準中型自動車、重特殊自動車、普通自動車、軽特殊自動車、原動機付自転車など、様々な種類の車両を運転することができます。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["It is not permitted to operate heavy special equipment (e.g. a crane, etc.) using a regular large vehicle license.", "普通大型免許では、重機械を運転することは許可されていません。"]
+}, {
+    "id": 73,
+    "engQuestion": "While driving with a learner's permit for practice, a \"learner driver\" sign is required to be displayed either on the front or back of the car.",
+    "jpQuestion": " 練習のために仮免許で運転する場合、車の前または後ろに「仮免許運転者」のサインを表示する必要があります。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["When a vehicle is being driven by a driver with a learner's permit for the purpose of practice, a \"learner driver\" sign must be displayed in designated positions at both the front and rear of the vehicle.", "「練習運転者」の表示を行う場合、その表示は車両前部及び後部の規定の位置に行わなければなりません。"]
+}, {
+    "id": 74,
+    "engQuestion": "A regular motorcycle license allows you to ride a motorcycle with an engine displacement of up to 550 cc.",
+    "jpQuestion": "通常のバイク免許では、550 cc以下のエンジン排気量のバイクを運転することが許可されています。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["With a regular motorcycle license, a person is permitted to operate a motorcycle that has an engine displacement greater than 50 cc and up to 400 cc, or a rated motor output exceeding 0.60 kW and up to 20.0 kW, which may also include a sidecar.", "通常のバイク免許を持っている場合、50 cc以上400 cc以下のエンジン排気量または0.60 kW超20.0 kW以下の評価モーター出力を持つバイク（サイドカーを含む）を運転することができます。"]
+}, {
+    "id": 75,
+    "engQuestion": "If there are changes in personal information such as legal residence, address, or name, it is permitted to report the change to the local public safety commission at the time of the next license renewal.",
+    "jpQuestion": "法定住所、住所、名前などの個人情報に変更があった場合、次回の免許更新時に地元の公安委員会に変更を報告することが許されています。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["In the event of a change in personal information, such as a change of address, marriage, or other reasons, it is essential to promptly inform the local public safety commission.", "ある人の個人情報が住所変更や結婚などの理由で変更された場合、地元の公安委員会に早期に報告することが重要です。\n\n\n\n"]
+}, {
+    "id": 76,
+    "engQuestion": "It is possible to renew a license up to two months before its expiration date.",
+    "jpQuestion": "免許の有効期限終了日の2か月前までに、更新することができます。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["To renew a driver's license, an individual is required to take the driving proficiency test for automobiles within 2 months prior to the expiration date, also known as the renewal period.", "運転免許証の更新を希望する場合は、有効期限の2ヶ月前までに自動車の運転のための適性試験を受ける必要があります（この期間は更新期間として知られています）。"]
+}, {
+    "id": 77,
+    "engQuestion": "If you commit a traffic violation or cause an accident before being issued a license, you may be denied the license or the issuance of the license may be postponed for a certain period.",
+    "jpQuestion": "免許が発行される前に、交通違反を犯したり事故を起こした場合、免許を取得できない可能性があるか、免許の発行が一定期間遅れる可能性があります。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["A driver's license may be denied or withheld from a person who meets any of the following conditions before being issued a license: 1) has a severe illness; 2) is addicted to drugs or alcohol; 3) has committed traffic violations; or 4) is required to take a special qualifying exam.", "運転免許証を取得する前に、以下の条件を満たす人は免許を拒否されるか、免許を取得できない場合があります。1. 重篤な病気のある人。2. 薬物またはアルコール中毒の人。3. 交通違反を犯した人。4. 特別な適性試験を受ける必要がある人。"]
+}, {
+    "id": 78,
+    "engQuestion": "Failing to take a novice-driver course when required due to a traffic violation committed during the novice-driver term will result in having to retake the examination.",
+    "jpQuestion": "初心者運転者期間中に交通違反を犯し、初心者運転者講習を受講するよう通知されたにもかかわらず、受講しなかった場合、再度試験を受ける必要があります。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["If a driver who is in their novice-driver term does not take the required course or commits another traffic violation before the term is over, they will be required to retake the driver's exam.", "初心運転者教育を受けていないか、あるいは初心運転者教育を受けた後に期間中に交通違反を犯した場合、違反点数が一定数（3点以上）に達すると、再度運転免許試験を受ける必要があります。"]
+}, {
+    "id": 79,
+    "engQuestion": "If you understand the basics of AT vehicle operation, you can pay less attention while driving because automatic transmissions are less dangerous than manual transmissions.",
+    "jpQuestion": "自動変速機付きの車両は、マニュアル変速機付きの車両よりも危険が少ないため、運転手はAT操作の基本を理解している限り、運転に注意を払う必要が少ない場合があります。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["Driving an automatic transmission vehicle is less demanding than driving a manual vehicle because the use of the clutch is not required. However, drivers of automatic vehicles sometimes become careless due to the ease of driving, which can lead to accidents.", "クラッチを使う必要がないため、自動車を運転することはマニュアル車と比べて負担が少ないです。ただし、簡単さが運転手を不注意にさせ、事故を引き起こすことがあります。"]
+}, {
+    "id": 80,
+    "engQuestion": " One way to save fuel when driving downhill in an automatic vehicle is to put it in neutral.",
+    "jpQuestion": "自動車が下り坂を走行中、ニュートラルにしておくことは、燃料を節約する方法のひとつです。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["Continuous pressing of the brake pedal when driving downhill may result in sudden brake failure, so it is important to use engine braking by selecting gear 2 or L on the gear shift lever.\n", "下り坂を運転する際にブレーキペダルを連続的に踏み続けると、急激なブレーキ不良の危険があるため、ギアシフトレバーの2やLを選択してエンジンブレーキを使用することが重要です。"]
+}, {
+    "id": 81,
+    "engQuestion": "There is a risk of sudden acceleration in automatic transmission two-wheeled vehicles if the throttle is turned too quickly because they do not have a clutch.",
+    "jpQuestion": "オートマチックトランスミッションの二輪車にはクラッチがないため、スロットルを急に開けると急加速する危険があります。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["\nTo ensure safety, it is important to exercise caution when accelerating an automatic transmission two-wheeled vehicle, as they do not have a clutch. If the throttle is turned too quickly, there is a risk of sudden acceleration.", "自動二輪車ではクラッチがないため、アクセルを急に開けると突然の加速の危険性があるため、加速する際には注意が必要です。"]
+}, {
+    "id": 82,
+    "engQuestion": "A driver can take a short nap while using a self-driving car.",
+    "jpQuestion": "自動運転車を利用しているドライバーは、運転中に短時間の仮眠をとることができます。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["When operating a self-driving car, it is important to promptly respond to any requests to take over control and remain attentive to any abnormal behavior of the autonomous vehicle in order to quickly resume manual driving.", "自動運転車を運転する場合、すぐに運転を引き継ぐよう求められた場合には迅速に対応し、自動車の異常な挙動にいち早く気付き、手動で運転を再開するために注意を払うことが重要です。"]
+}, {
+    "id": 83,
+    "engQuestion": "When riding a two-wheeled vehicle behind a four-wheeled vehicle, visibility ahead can be difficult, so it is important to be cautious and avoid being in the driver's blind spot.",
+    "jpQuestion": "四輪車の後ろを走行する二輪車では、前方が見えにくいだけでなく、四輪車の運転者の死角に入らないように注意することが重要です。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["When riding a two-wheeled vehicle, it is important to avoid the blind spots of four-wheeled vehicles.\nAlways stay in clear sight of drivers and maintain a safe distance while riding a two-wheeled vehicle.\nCheck for traffic coming from the right while riding a two-wheeled vehicle.", "2輪車を運転する場合は、以下の点に注意してください：1. 4輪車の盲点を避けること。2. 運転手に見える位置に乗り、安全距離を保ちながら走ること。3. 右後方からの交通に注意すること。"]
+}, {
+    "id": 84,
+    "engQuestion": "When making a right turn at an intersection, it is important to be careful not to misjudge the distance from oncoming two-wheeled vehicles that are going straight.",
+    "jpQuestion": "交差点で右折する場合、直進中の二輪車の距離を誤解することがないよう注意する必要があります。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["\nAn optical illusion well known to cause many accidents is that the two-wheeled vehicle may appear to be farther away and slower than it really is, due to its size. Drivers should be aware of this when sharing the road with motorcycles or bicycles.", " 二輪車は小さいため、実際よりも遅く見えたり、距離があるように見えたりする光学的な錯覚が起こりやすいです。この現象はよく知られており、多くの事故の原因となっています。自動車運転者は、バイクや自転車と道を共有する際に、この点に注意する必要があります。"]
+}, {
+    "id": 85,
+    "engQuestion": "Hazard lamps and flashing of headlamps are sometimes used as a way of communication between drivers, in ways that are not specifically stipulated in the rules.",
+    "jpQuestion": "ハザードランプやヘッドランプの点滅は、規則で明示的に規定されていない方法で、他のドライバーとのコミュニケーション手段として使用されることがあります。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["Flashing your hazard lights several times has become a common way to show appreciation while driving. However, it should be used with caution as it can be misinterpreted as indicating an intention to stop.\n", "あなたのハザードランプを数回点滅させることは、運転中に感謝の気持ちを表す一般的な方法になっています。しかし、停止の意図を示していると誤解されることがあるため、注意して使用する必要があります。"]
+}, {
+    "id": 86,
+    "engQuestion": "As the vehicle speed increases, the driver's field of vision narrows, making it difficult to see moving objects.",
+    "jpQuestion": "車両の速度が速くなるほど、運転手の視野が狭くなり、動く物体が見づらくなります。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["Dynamic vision refers to your ability to perceive objects in motion while you are also in motion, such as when driving a vehicle. This type of vision is generally less accurate than when looking at stationary objects. As speed increases, the accuracy of dynamic vision decreases, which can delay a driver's awareness of dangerous situations.\n", "動くものを見る視力は動的視力と呼ばれ、車を運転するときなどに使用されます。このタイプの視力は、静止した物体を見る場合よりも一般的に精度が低くなります。速度が上がるほど、動的視力の精度が低下し、危険な状況に対する運転手の意識が遅れる可能性があります。"]
+}, {
+    "id": 87,
+    "engQuestion": "Drive fast when you enter a tunnel so your eyes rapidly adjust to the darkness.",
+    "jpQuestion": "トンネルに入ったら、目が暗闇に早く慣れるように、速いスピードで運転するのが最適です。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["People's reaction to glare can cause difficulty in seeing properly. This is called light adaptation, where vision returns as the eyes adjust to the light. On the other hand, when light is extinguished, vision is severely impaired, and it slowly returns as the eyes adjust. This is called dark adaptation. It is recommended for drivers to reduce their speed when entering and exiting tunnels.", "光にさらされると、眩しさに反応してうまく見えなくなります。眼が光に適応するにつれて、視覚が戻ります。これを光適応と呼びます。反対に、光が消えると、視覚が著しく低下し、目が適応するにつれて徐々に回復します。これを暗適応と呼びます。トンネルに入るときや出るときは、運転者は速度を落とすことが推奨されています。"]
+}, {
+    "id": 88,
+    "engQuestion": "The perceived distance of large vehicles appears shorter, while that of two-wheeled vehicles appears longer, even if they are actually at the same distance.",
+    "jpQuestion": "大型車は近く、二輪車は遠く見えます。実際には同じ距離にある場合でも、このように感じることがあります。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["When two vehicles are at the same distance, the larger vehicle appears to be closer and the smaller vehicle appears to be farther away.", "二つの車両が同じ距離にある場合、大型車両は近く、小型車両は遠くに見えるように見えます。"]
+}, {
+    "id": 89,
+    "engQuestion": "If you feel sober, it is fine to drive after you've had a drink.",
+    "jpQuestion": "たとえ飲酒していても、自分が十分に冷静であると自信があれば、運転しても構いません。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["Driving while under the influence of alcohol impairs judgement and self-restraint, making it impossible to drive accurately and safely. It is important not to drive, even if you have only consumed a small amount of alcohol.", "アルコールを摂取した後には判断力や自制心が低下するため、正確で安全な運転が不可能になります。たとえ少量しか飲んでいなくても、運転しないことが重要です！\n\n\n\n"]
+}, {
+    "id": 90,
+    "engQuestion": " If you begin to feel drowsy while driving, you should refresh yourself by opening the window or chewing gum.",
+    "jpQuestion": "運転中に眠くなってきたら、窓を開けたりガムを噛んだりするなどしてリフレッシュすることができます。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["If you feel sleepy while driving, it is not enough to just chew gum or other remedies. It is essential to stop the vehicle and rest as soon as you feel even slightly drowsy.\n", "もし運転中に眠気を感じたら、ガムを噛むなどの対策だけでは十分ではありません。少しでも眠気を感じたら、すぐに車を停めて休憩することが必要です。"]
+}, {
+    "id": 91,
+    "engQuestion": "It is recommended to take a break every two hours when driving long distances.",
+    "jpQuestion": "長距離運転をする場合は、約2時間ごとに休憩することが推奨されます。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["Consider planning your trips in advance to avoid driving for extended periods of time. It's important to take regular breaks, at least every two hours of driving, to prevent fatigue and maintain focus on the road.\n", "計画を立てて、長時間運転しないようにしましょう。運転を２時間続けた後には、少なくとも１回の休憩をとることが重要です。"]
+}, {
+    "id": 92,
+    "engQuestion": "Worn tires on a vehicle increase braking distance without affecting reaction distance.",
+    "jpQuestion": "車両のタイヤが摩耗している場合、制動距離が伸びますが、反応距離は変わりません。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["The distance it takes for a vehicle to come to a complete stop is composed of two parts: reaction distance and braking distance. Reaction distance is the distance that the vehicle travels during the driver's reaction time after recognizing the need to stop. Braking distance is the distance that the vehicle travels from the time the brakes are applied until the vehicle comes to a complete stop.", "反応距離はブレーキを踏んでからブレーキが効くまでの時間です。制動距離はブレーキが効いてから停止するまでの距離です。"]
+}, {
+    "id": 93,
+    "engQuestion": "As cars equipped with ABS have a shorter braking distance, drivers do not need to keep as much distance from the vehicle in front.",
+    "jpQuestion": " ABSを搭載した車両はブレーキング距離が短いため、前方車両からの距離を大きく取る必要がありません。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["To ensure safety, it is important to maintain a safe distance from the vehicle in front at all times, erring on the side of caution.", "安全を確保するためには、常に前方の車両と安全な距離を保つことが重要であり、慎重に行動することが必要です。\n\n\n\n"]
+}, {
+    "id": 94,
+    "engQuestion": "Vehicles with a higher center of gravity tend to be more stable.",
+    "jpQuestion": "重心が高い車両ほど安定性が高くなる傾向があります。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["The center of gravity is the point where the weight of a vehicle is balanced. If the center of gravity is high, the vehicle becomes less stable. Therefore, it is important not to load cargo too high on a vehicle to prevent instability.", "重心は、車両の重量がバランスされる点です。重心が高いと、車両は不安定になります。そのため、車両に荷物を高く積みすぎないように注意することが重要です。"]
+}, {
+    "id": 95,
+    "engQuestion": "When driving on a mountain road with steep cliffs on one side, if two vehicles cannot safely pass each other, the vehicle on the side closer to the cliff should stop and yield to the other vehicle.",
+    "jpQuestion": "崖がある山岳道路で、2台の車両が安全にすれ違えない場合、崖側の車両が停止し、他の車両に譲る必要があります。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["It is necessary to yield in the following situations when driving on a slope: 1) when driving downhill, 2) when there are obstacles on the road, and 3) when driving on a narrow road with a cliff, the vehicle closest to the cliff should yield by stopping at a safe place.", "坂道を運転する際には、以下の状況で譲る必要があります：1）下り坂を運転する場合、2）道路に障害物がある場合、および3）崖のある狭い道路を運転する場合、崖に最も近い車両が安全な場所で停止して譲る必要があります。"]
+}, {
+    "id": 96,
+    "engQuestion": "When riding a motorcycle on a curved road, it is recommended to disengage the clutch and use the momentum to move forward, even when slowing down.",
+    "jpQuestion": "バイクでカーブを曲がる場合、減速しているときでもクラッチを切って慣性で前進するのがベストです。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["Approaching a curve, it is important to slow down but never disengage the clutch during the turn. Lean the motorcycle inward as you approach to allow for a smoother turn, but make sure not to cross into the opposite lane. It is also important to never overtake a vehicle just before a curve or corner.", "カーブに接近する際には、スピードを落とし、カーブでクラッチを切らないようにします。カーブに近づくにつれてバイクを内側に傾け、スムーズに曲がれるようにしますが、対向車線にははみ出さないように注意してください。また、カーブやコーナーの直前で他の車両を追い越すことは避けるべきです。"]
+}, {
+    "id": 97,
+    "engQuestion": "During night driving, the glare from your own car's lights and oncoming vehicles may make it difficult to spot pedestrians walking in the center or near the sides of the road.",
+    "jpQuestion": "夜間運転中、自分の車のライトや対向車のライトが中央部や路肩付近を歩く歩行者を見つけにくくすることがあります。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["At night, the lights from your vehicle and oncoming vehicles can make it difficult to identify pedestrians and bicycles, a phenomenon known as the \"evaporation effect\". It is important to exercise caution and be aware of this effect, particularly on dark roads.\n", "夜間において、自車や対向車からの光によって歩行者や自転車が見えにくくなる現象を「蒸発現象」と呼びます。特に暗い道では、この現象に注意することが重要です。"]
+}, {
+    "id": 98,
+    "engQuestion": "To avoid being temporarily blinded by the lights of an oncoming vehicle, it's recommended to shut your eyes as your drive past.",
+    "jpQuestion": "直前の車のライトで一時的に目がくらむのを避けるために、すれ違うときに目を閉じることが推奨されています。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["When the headlights of an oncoming vehicle blind you, avoid looking directly at the light and instead focus to the left to prevent visual impairment. When passing other vehicles, lower your headlights to avoid blinding oncoming vehicles.", "対向車のヘッドライトに目がくらむ場合、直接光を見るのを避け、代わりに左を見るように集中することで視覚障害を防ぐべきです。他の車両を通過するときは、ヘッドライトを下げて対向車を目がくらませないようにしましょう。"]
+}, {
+    "id": 99,
+    "engQuestion": "As visibility is reduced at night, it is important to pay close attention to the area around you while driving.",
+    "jpQuestion": "夜間は視界が制限されるため、運転する際には自分の周りの領域に注意を払うことが重要です。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["The driver's exam includes many tricky questions like this one. The increasing number of street lights and convenience stores have greatly improved visibility while driving at night. However, drivers must also take care not to take their eyes away from the road.", "ドライバーの試験にはこのようなトリッキーな問題がたくさんあります。街灯やコンビニの数が増えることで、夜間の運転時の視界は大幅に向上しています。ただし、運転者は道路から目を離さないように注意する必要があります。"]
+}, {
+    "id": 100,
+    "engQuestion": "Driving with your lights on is not necessary if you are able to see 50 meters ahead due to streetlights or other sources of illumination, even at night.",
+    "jpQuestion": "夜間でも、街灯などの光で前方50メートルが見える場合は、ライトを点灯する必要はありません。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["When driving at night, it is necessary to turn on the headlights, sidelights, and rear lights at all times. Additionally, during the day, if the driver's visibility is reduced to less than 50 meters, such as in tunnels or dense fog, the headlights must also be turned on.", "夜間には、ヘッドライト、サイドライト、テールライトを常に点灯する必要があります。また、トンネルや濃霧など、ドライバーの視界が50メートル未満に低下する場合は、昼間でもヘッドライトを点灯する必要があります。\n\n\n\n\n"]
+}, {
+    "id": 101,
+    "engQuestion": "If you are forced to park on an expressway at night, as long as you turn on your hazard lights, you do not need to put out an emergency warning reflector board. ",
+    "jpQuestion": "もし夜間に高速道路上で駐車する必要がある場合は、ハザードランプを点灯させれば緊急警告三角板を設置する必要はありません。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["At night, when parking on an expressway, it is required to turn on the hazard lights, parking lights, and rear lights, as well as to place an emergency reflector board.", "高速道路で夜間駐車する場合は、ハザードランプ、駐車灯、後部灯を点灯することに加え、緊急反射板を使用する必要があります。"]
+}, {
+    "id": 102,
+    "engQuestion": "It is advisable to turn on the interior lights when driving at night to illuminate the driver's seat.",
+    "jpQuestion": "夜間に運転する際には、運転席を照らすために車内灯を点灯することが望ましいです。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["It is recommended for drivers not to turn on the interior lights of their automobiles, except for buses.", "自動車において、バスを除き車内灯をつけるべきではありません。"]
+}, {
+    "id": 103,
+    "engQuestion": "When driving at night, there is no need to lower your lights even if an oncoming vehicle is approaching, as it may make it more difficult to see in front.",
+    "jpQuestion": "夜間に運転する際、対向車が接近していても、ライトを下げる必要はありません。それは前方の視界を妨げる可能性があるためです。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["When driving outside urban areas with heavy traffic, it is advisable to use high beams to increase visibility and alert pedestrians or other road users. However, drivers should switch to low beams when approaching oncoming traffic or driving behind other vehicles.", "深刻な交通渋滞がない市街地以外で運転する場合は、歩行者や他の道路利用者に早く気づいてもらうために遠近両用灯を使用することが望ましいです。ただし、対向車に近づいたり、他の車両の後ろについた場合は、ロービームに切り替える必要があります。"]
+}, {
+    "id": 104,
+    "engQuestion": "On rainy days, the road becomes slippery, which can make it difficult to stop, so it is important to apply step hard on the brakes.",
+    "jpQuestion": "雨の日には、路面が滑りやすくなり、停止が難しくなるため、ブレーキを強く踏むことが大切です。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["It is advisable to avoid sudden acceleration, abrupt steering maneuvers, and sudden braking to prevent skidding, spinning out, and other dangerous situations. To brake safely, you should consider using engine braking or pumping the brakes several times.", "急加速、急なハンドル操作、急ブレーキは、スリップやスピンなどの事故を引き起こす可能性があるため、避けることが望ましいです。安全なブレーキ操作には、エンジンブレーキを使用するか、ブレーキを何度かポンピングすることが推奨されます。"]
+}, {
+    "id": 105,
+    "engQuestion": "When driving in foggy conditions, it is recommended to maintain close to the vehicle in front.",
+    "jpQuestion": "霧の中を運転する場合、前方車両に近づくことを推奨します。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["When driving in foggy conditions, visibility is greatly reduced. Therefore, it is important to use headlights, fog lamps, and horns, reduce speed, and drive with caution.", "霧の中を運転する場合、視界が大幅に低下します。そのため、ヘッドライト、フォグランプ、クラクションを使用し、スピードを落として慎重に運転することが重要です。"]
+}, {
+    "id": 106,
+    "engQuestion": "If your vehicle's tires start to spin in mud or similar conditions, increase the engine's revolutions and try to drive out in one smooth motion.",
+    "jpQuestion": "もし車のタイヤが泥などでスピンし始めた場合、エンジンの回転数を上げて一気に脱出を試みてください。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["If a car cannot start due to tire skidding, it may help to put sandbags, mats, or branches in front of the drive wheels for added traction.", "車がタイヤのスリップによって動かなくなった場合、駆動輪の前に砂袋、マット、または枝などを置くことでトラクションを増やすことができます。"]
+}, {
+    "id": 107,
+    "engQuestion": "It's better to avoid driving on the trail created by the vehicle in front when driving on snow-covered roads, as they can be very slippery.",
+    "jpQuestion": "雪道を走行する場合、前の車両が走行した部分はとても滑りやすいため、避ける方が良いです。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["When driving on snow-covered roads, it is advisable to follow in the tracks of previous vehicles whenever possible. When passing another car on a snow-covered road, it is important to exercise caution and avoid getting too close to the edge of the road, as the edge may be difficult to distinguish.", "雪道を運転する場合は、できるだけ前の車の跡に従うことが安全です。雪の多い道路で他の車を追い越す際には、道路の端に近づきすぎないように注意し、端が判断しにくいことに気をつけることが重要です。"]
+}, {
+    "id": 108,
+    "engQuestion": "If the engine RPM of a four-wheeled vehicle is too high and won't come down while you are driving, you should turn off the engine immediately.",
+    "jpQuestion": "エンジンの回転数が下がらない場合、(四輪)自動車を運転している場合は、すぐにエンジンを切ることをお勧めします。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["If you turn off the engine of a four-wheeled vehicle, the steering wheel will become heavy and brake performance will deteriorate, which is very dangerous. Therefore, be sure to wait until the vehicle has come to a complete stop before turning off the engine.", "四輪車を運転中にエンジンを切ると、ステアリングが重くなりブレーキ性能が低下して非常に危険です。そのため、車両が完全に停止するまでエンジンを切らないようにしてください。"]
+}, {
+    "id": 109,
+    "engQuestion": "It is important to stay in the traffic lane, even if there is a risk of a head-on collision.",
+    "jpQuestion": "正面衝突の危険があっても、交通レーンを離れてはいけません。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["If your car is at risk of colliding head-on with an oncoming vehicle, it is important to take immediate action to avoid the collision. First, honk your horn to alert the other driver. Next, apply your brakes and swerve to the left as much as possible to avoid the oncoming vehicle. If there is a safe area on the side of the road, try to drive off the road to avoid the collision.", "対向車と正面衝突する可能性がある場合は、クラクションを鳴らし、ブレーキを踏んで、可能な限り左に逸れます。道路の端が安全な場合は、道路から離れるようにして衝突を避けてください。"]
+}, {
+    "id": 110,
+    "engQuestion": "If the rear wheel of the vehicle slides to the left, turn the steering wheel to the left to correct the direction of the vehicle.",
+    "jpQuestion": "もし車両の後輪が左に滑ってしまった場合は、ステアリングホイールを左に回して車両の進行方向を修正する。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["When the rear wheels start to skid, do not apply the brakes. Instead, lightly turn the steering wheel in the direction of the skid and regain control of the car's direction.\n\n", "後輪がスリップした場合、ブレーキを踏まないでください。代わりに、スリップした方向に軽くハンドルを切り、車の進行方向を取り戻してください。"]
+}, {
+    "id": 111,
+    "engQuestion": "In the event of a major earthquake, it is best to evacuate to a safe place as quickly as possible by car.",
+    "jpQuestion": "大きな地震が起こった場合、車でできるだけ早く安全な場所に避難するのが最善です。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["Unless you need to escape from a tsunami, it is not recommended to use your car for evacuation as it may cause traffic congestion and impede emergency vehicles from passing through.", " 車を使用して避難することは道路で混乱を引き起こし、緊急車両の進行を妨げる可能性があるため、津波から逃げる必要がない限り、車を使用しないことを推奨します。"]
+}, {
+    "id": 112,
+    "engQuestion": "If a major earthquake occurs and you are forced to abandon your vehicle and evacuate, it is important to lock the doors.",
+    "jpQuestion": "大規模な地震が発生し、車を路上に残して避難する必要がある場合は、ドアに鍵をかけることが重要です。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["Leaving the engine key and keeping the doors unlocked allows the car to be moved easily in case it is blocking emergency vehicles. Closing windows is also recommended to prevent flames from entering the car in case of a fire.", "エンジンキーを残し、ドアを解錠にする理由は、緊急車両の通行を妨げてしまった場合に、車を移動させるためです。また、窓を閉めておく理由は、火災の場合に炎が車内に入らないようにするためです。"]
+}, {
+    "id": 113,
+    "engQuestion": "During summer when riding a motorcycle, it is important to wear short-sleeved clothing to ensure freedom of movement.",
+    "jpQuestion": "夏季にバイクを運転する際には、自由な動きを確保するために半袖の服を着用することが重要です。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["To improve safety when riding a two-wheeled vehicle, it is important to wear protective gear that covers as much skin as possible. Additionally, riders should wear high-visibility clothing that has reflectors on both the clothing and helmets to improve visibility to other drivers.\n\n", "二輪車の事故は深刻なものになりがちです。したがって、できるだけ多くの皮膚を覆う衣服を着用することが重要です。また、ライダーは、他のドライバーに見えやすくするために、衣服とヘルメットの両方に反射材を取り付けた高い視認性のある服を着用する必要があります。"]
+}, {
+    "id": 114,
+    "engQuestion": "A preschool child under the age of six who is seated in the rear seat of a four-wheeled vehicle is not required to use a child seat.",
+    "jpQuestion": "四輪車の後部座席に乗る6歳未満の幼児については、チャイルドシートの使用は義務づけられていません。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["If a child is riding in your vehicle, it is important to have a child safety seat appropriate for their age installed, unless the child has an illness or other condition that makes it impossible to use the seat.", "子供が車に乗る場合、病気などの理由がある場合を除き、その子供の年齢に適したチャイルドシートを設置することが重要です。"]
+}, {
+    "id": 115,
+    "engQuestion": "It is okay to drive during the daytime, even if your headlights are not functioning properly.",
+    "jpQuestion": "昼間に車を運転する場合、ヘッドライトが正常に作動しなくても大丈夫です。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["At all times, whether it is day or night, it is mandatory to have the front headlights on while driving. Thus, if your front headlight is not functioning, it is illegal to drive your car, even during the day.\n\n", "常に、昼夜問わず車を運転する際には前方のヘッドライトを点灯することが法律で義務付けられています。そのため、もし前方のヘッドライトが動作していない場合は、昼間であっても車を運転することは違法です。"]
+}, {
+    "id": 116,
+    "engQuestion": "Ensuring your car is properly cleaned and maintained is crucial as dirty windows and other elements can negatively affect safe driving.",
+    "jpQuestion": "車両の適切な清掃とメンテナンスは重要です。汚れた窓などが安全運転に悪影響を与えるためです。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["Maintaining a clean and well-kept car serves a greater purpose than just providing a comfortable driving experience. By taking good care of your car, you can drive more safely and with greater composure. Make it a habit to perform daily maintenance and keep your car in good condition to prolong its lifespan and enhance your driving experience.", "自動車を清潔かつ良好な状態に保つことは、単に快適な運転感覚を楽しむためだけではなく、より安全で落ち着いた運転につながります。日々のメンテナンスを実践し、車両を良好な状態に保つことで、車の寿命を延ばし、より良い運転体験を楽しむことができます。"]
+}, {
+    "id": 117,
+    "engQuestion": "It is okay to drive when your windshield wipers are broken or not operating during good weather.",
+    "jpQuestion": "晴天の場合、フロントガラスのワイパーが壊れているか作動しない場合でも運転することはできます。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["It is necessary for every safety feature in your car, such as the headlights, windshield wipers, and horn, to be in optimal working condition, otherwise it is not permissible to drive the car.", "あなたの車の安全機能、例えばヘッドライト、ワイパー、クラクションなどはすべて完全な作動状態でなければならず、そうでない場合、車を運転することは違法です。"]
+}, {
+    "id": 118,
+    "engQuestion": "The battery is a semi-permanent and therefore you do not need to inspect it.",
+    "jpQuestion": "バッテリーは半永久的な装置であるため、点検する必要はありません。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["Regularly checking the battery is important as it serves as the power source for all the electrical devices in a vehicle. If the battery is not checked regularly, its electric capacity may decline, leading to difficulty starting the engine.", "バッテリーは自動車内のすべての電気機器の電源となります。定期的なチェックをしないと、バッテリーの電気容量が低下し、最終的にエンジンが始動しなくなる可能性があります。"]
+}, {
+    "id": 119,
+    "engQuestion": "Modifying a two-wheeled vehicle by installing irregular handlebars, removing the muffler, cutting off a part of the muffler, removing the core of the muffler, or opening holes in the muffler is prohibited.",
+    "jpQuestion": "二輪車において、不正なハンドルバーの取り付け、マフラーの取り外し、マフラーの一部の切り落とし、マフラーコアの取り外し、またはマフラーに穴を開ける改造をすることは禁止されています。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["Modifying the muffler by removing parts, cutting it off, or opening holes is prohibited because it will cause the vehicle to be excessively noisy and disturb others. Similarly, installing handlebars with unusual shapes is dangerous and can hinder the driver's ability to control the vehicle.\n", "マフラーから部品を取り外したり、切り落としたり、芯を取り外したり、穴を開けたりすることは違法です。このような改造は車両を非常に騒々しくし、他の人を迷惑させます。同様に、異常な形状のハンドルバーを取り付けることも危険であり、運転者が車両を制御する能力を妨げる可能性があります。"]
+}, {
+    "id": 120,
+    "engQuestion": "Carrying tools and emergency gear is important to be ready for any car trouble or accidents.",
+    "jpQuestion": "車のトラブルや事故に備えて、工具や緊急用品を携帯することが重要です。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["It is important to prepare and carry certain items in case of a car breakdown or an accident. These items include:\n\nEmergency signaling devices: These include hazard triangles or flares that can be used to warn other drivers of your presence on the road.\n\nEmergency warning reflector: This is a reflective device that can be placed on the road to alert other drivers of an accident or breakdown ahead.\n\nTools: Basic tools like screwdrivers, pliers, and wrenches can be used for minor repairs.\n\nSpare tire: Make sure your car has a spare tire in good condition, along with a tire jack and lug wrench.\n\nFirst aid materials: It is a good idea to keep a basic first aid kit in your car, including bandages, antiseptic, and pain relievers.\n", "車が故障した場合や交通事故に巻き込まれた場合に備えて、以下の物品を携帯することが重要です。\n\n緊急シグナルデバイス：警告三角板やフレアなど、他の運転者にあなたの存在を知らせるために使用できるデバイスです。\n\n緊急警告リフレクター：事故や故障があったことを、前方の運転者に知らせるために使用される反射板です。\n\n工具：ドライバーやペンチ、レンチなどの基本的な工具があり、軽微な修理に使用できます。\n\nスペアタイヤ：良好な状態のスペアタイヤ、タイヤジャッキ、ナットレンチがあることを確認してください。\n\n応急処置材料：バンテージ、消毒液、鎮痛剤などを含む基本的な応急処置キットを車に備えることが良いでしょう。"]
+}, {
+    "id": 121,
+    "engQuestion": "The longer a tire is used in the same position, the longer its lifespan.",
+    "jpQuestion": "タイヤは長い期間同じ位置で使用すると寿命が長くなります。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["Over time, using tires in the same position can result in wear in one direction, which can lead to reduced tire life and potentially compromise the safety of the vehicle. Therefore, it is recommended to regularly rotate the tires on a four-wheeled vehicle.\n", "タイヤを長期間同じ位置で使用すると、一方向に磨耗することがあり、各タイヤの寿命が短くなり、車両の安全性に影響を与える可能性があります。そのため、4輪車のタイヤを定期的に交換することをお勧めします。"]
+}, {
+    "id": 122,
+    "engQuestion": "Tire chains can be installed on either the front or rear wheels, as it does not make a difference.",
+    "jpQuestion": "タイヤチェーンは前輪または後輪のいずれかに取り付けることができます。どちらに取り付けても問題ありません。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["To improve traction on snowy or icy roads, it is recommended to attach chains to the driving wheels of the car. This means attaching chains to the rear wheels if the car is rear-wheel drive, or to the front wheels if the car is front-wheel drive.", "雪や凍結した道路でのトラクションを改善するために、自動車の駆動輪にチェーンを取り付けることをお勧めします。これは、自動車が後輪駆動の場合には後輪に、前輪駆動の場合には前輪にチェーンを取り付けることを意味します。"]
+}, {
+    "id": 123,
+    "engQuestion": "There are some vehicles that require all daily pre-driving checks to be performed before being driven for the first time each day, while other vehicles require daily pre-driving checks to be performed at appropriate times based on the distance traveled and driving conditions.",
+    "jpQuestion": "ある車両では、毎日運転前点検を始める前に必ずすべての点検を行う必要があります。一方、他の車両では、走行距離や運転条件に応じて適切なタイミングで毎日の運転前点検を行う必要があります。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["Vehicles that require daily checks include commercial vehicles, rental cars, vehicles with a seating capacity of 11 or more, regular trucks, kindergarten buses, special use vehicles, special heavy equipment, three-wheeled vehicles, and vehicles with tracks or skis.", "自動車の日常点検が必要なのは、商用車、レンタカー、11人以上の乗車定員を持つ車両、普通のトラック、幼稚園バス、特殊使用車両、特殊重機械、三輪車、履帯やスキーを装着している車両などです。"]
+}, {
+    "id": 124,
+    "engQuestion": "When checking the handbrake of a four-wheeled vehicle, it is ideal for the pull stroke to be small when the lever is pulled fully.",
+    "jpQuestion": "四輪車のハンドブレーキを点検する際には、レバーを完全に引いたときに引きストロークが小さいのが理想的です。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["When inspecting your handbrake, fully pull the lever or pedal and make sure the range of movement is not too big or too small.", "手ブレーキを点検する場合は、レバーまたはペダルを完全に引き、移動範囲が大きすぎず小さすぎないことを確認してください。"]
+}, {
+    "id": 125,
+    "engQuestion": "If the wiper blades are old (degraded), the windshield wipers may not wipe cleanly.",
+    "jpQuestion": "ワイパーブレードが古くなっている場合、フロントガラスのワイパーがうまく拭き取れないことがあります。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["To check your windshield wipers, turn them on and make sure that both the low speed and high speed settings are working properly. Check to see if the wipers are effectively removing water from the windshield without leaving any streaks or spots.", "風呂場を確認する場合、ワイパーをオンにして、低速と高速の両方が正常に動作することを確認してください。ワイパーが水を綺麗に取り除いているか確認してください。"]
+}, {
+    "id": 126,
+    "engQuestion": "If the level of brake fluid has decreased significantly, it may indicate a brake fluid leak, and the vehicle should not be driven until it has been serviced.",
+    "jpQuestion": "ブレーキフルードのレベルが大幅に低下している場合、ブレーキフルードが漏れている可能性があり、点検修理を受けるまで車両を運転しないでください。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["Make sure to check the brake fluid level in the reservoir and ensure that it falls between the minimum and maximum level marks. If the fluid level is too low, it could be an indication of a leak in the system.", "レザーバー内のブレーキフルードが指定された範囲（MINとMAXの間）にあるか確認してください。レベルが極端に低い場合、流体漏れがある可能性があります。"]
+}, {
+    "id": 127,
+    "engQuestion": "The coolant level can be checked by ensuring that the level in the reservoir tank is adequate.",
+    "jpQuestion": "クーラントのレベルは、リザーバータンクのレベルが十分であることを確認することで確認できます。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["Make sure to check that the level of coolant in the reservoir tank is between the specified range of LOW and FULL. This also applies to two-wheeled vehicles that are water-cooled. If the coolant level is extremely low, it may indicate a leak in the radiator or a radiator hose.\n\n", "クーラント液のレベルが、指定された範囲（LOW と FULL の間）内にあることを確認してください。これは、水冷式の二輪車にも適用されます。クーラント液のレベルが極端に低い場合、ラジエーターまたはラジエーターホースからの漏れの可能性があります。"]
+}, {
+    "id": 128,
+    "engQuestion": "It is recommended to replenish the low electrolyte level of a battery with tap water.",
+    "jpQuestion": "電池の電解質の液面が低い場合は、蛇口の水で補充することをお勧めします。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["It is important to use distilled water or deionized water when adding water to your flooded battery, and never use tap water. Tap water often contains minerals, chlorides, and other impurities that can react with sulfuric acid and damage your battery. Additionally, if the battery is used with a low electrolyte level, it can become overheated or even explode.\n\n", "常に蒸留水またはイオン交換水を使って、フラッドバッテリーに水を加えてください。絶対に水道水を使用しないでください。水道水には、硫酸と反応してバッテリーに損傷を与える鉱物、塩化物、その他の不純物が含まれていることがよくあります。また、電解液のレベルが低い状態でバッテリーを使用すると、過熱したり、爆発することがあります。"]
+}, {
+    "id": 129,
+    "engQuestion": "A crack in the sidewall of a tire does not necessarily mean you cannot drive on it.",
+    "jpQuestion": "タイヤの側面に亀裂があっても、運転に支障はありません。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["When inspecting your tires, examine the entire circumference of each tire and ensure there are no cracks. Additionally, ensure there are no nails, stones, or other foreign objects piercing or embedded in the tires.", "タイヤを点検する際は、各タイヤの周囲を全体的に確認し、クラックがないことを確認してください。さらに、タイヤに釘、石、またはその他の異物が刺さっていないことを確認してください。"]
+}, {
+    "id": 130,
+    "engQuestion": "If you stop your vehicle to wait for a friend for 5 minutes or less, it is not considered parking.",
+    "jpQuestion": "友人を待つために車を停止する場合、5分以下の場合は駐車とはみなされません。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["The meaning of \"Park\" can refer to any of the following circumstances:\n\nWhen the vehicle is stopped and waiting for passengers or cargo.\nWhen the vehicle is stopped for a duration of longer than 5 minutes.\nWhen the vehicle is stopped due to car trouble or other issues.", "「駐車」という用語の意味は、以下の状況を指すことがあります。\n\n車両が停止して、乗客や荷物を待っている場合。\n車両が5分以上停止している場合。\n車両が故障などで停止している場合。"]
+}, {
+    "id": 131,
+    "engQuestion": "In a tunnel with vehicular lanes, it is allowed to park or stop.",
+    "jpQuestion": "トンネル内に車線がある場合、駐車や停車が許可されています。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["Prohibited parking locations: no stopping/parking zones, streetcar areas, near hilltops or steep slopes, tunnels, side intersections, within 5 meters of a corner, inside pedestrian crossings, railway crossings, near safety zones, and within 10 meters of a bus stop.", "禁止場所：1.「駐車禁止」の標識のある場所。2.路面電車の走行区域内。3.急勾配や急カーブの上り坂。4.トンネル内。5.交差点内。6.角を曲がる場所から5メートル以内。7.横断歩道上。8.踏切内。9.安全地帯近く。10.バス停から10メートル以内。"]
+}, {
+    "id": 132,
+    "engQuestion": "Parking your own vehicle in front of your own garage is not illegal.",
+    "jpQuestion": "自分のガレージの前に自分の車を駐車することは違法ではありません。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["Parking within 3 meters of a parking lot or garage, even if you are the owner, is prohibited by law.", "3メートル以内の駐車場やガレージには、オーナーであっても駐車することは法律で禁止されています。"]
+}, {
+    "id": 133,
+    "engQuestion": "If there is no parking restriction, it is permitted to park on a road that is at least 3.5 meters wide.",
+    "jpQuestion": "駐車規制がなければ、幅が3.5メートル以上の道路に駐車することができます。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["Parking in areas where there is less than 3.5 meters of space between the right side of the vehicle and the right side of the road is not allowed.\n\n", "道路の右側と車両の右側の間にスペースが3.5メートル未満しかない場所での駐車は禁止されています。"]
+}, {
+    "id": 134,
+    "engQuestion": "When parking on a road without a sidewalk or a side strip, you must leave a space of 0.75 meters or more on the left side of the vehicle for pedestrian passage.",
+    "jpQuestion": "歩道または路側帯がない道路に駐車する場合は、左側に0.75メートル以上のスペースを歩行者の通行のために確保する必要があります。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["When there is no sidewalk or shoulder, position your vehicle on the left side of the road and do not leave a gap of 0.75 meters.", "歩道も路肩もない場合、車両を道路の左側に位置させ、0.75メートルの隙間を空けないでください。"]
+}, {
+    "id": 135,
+    "engQuestion": "Due to their small size, parking two-wheeled vehicles on sidewalks is not considered a parking violation.",
+    "jpQuestion": "二輪車は小型であるため、歩道に駐車しても違反にはなりません。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["Although two-wheeled vehicles are smaller and take up less space than four-wheeled ", "二輪車は四輪車よりも小型で場所を取りませんが、同様の影響を与えることがありますので、注意して駐車する必要があります。"]
+}, {
+    "id": 136,
+    "engQuestion": "In a location with parking meters or a parking ticket issuing machine, you can park for as long as you have paid for or obtained a valid parking ticket.",
+    "jpQuestion": "駐車メーターまたは駐車券発行機のある場所では、メーターを作動させたり駐車券を取得した後は、支払った分または有効な駐車券の範囲内で自由に駐車することができます。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["Parking in a time-limited parking zone for longer than the specified time on the sign is prohibited. The time limit starts either when the parking meter detects your vehicle or when you receive a parking ticket.", "時間制限駐車場では、標識に表示された時間を超えて駐車することは禁止されています。時間制限は、駐車メーターが車両を検知するか、駐車券を入手した時点から開始されます。"]
+}, {
+    "id": 137,
+    "engQuestion": "When parking and leaving a vehicle with an automatic transmission, follow these steps: turn off the engine, engage the hand brake, and place the gearshift in the \" R \" position when on a level surface or a downhill slope, and in the \" L \" position when on an uphill slope.",
+    "jpQuestion": "自動変速機を搭載した車両を駐車して離れる場合は、次の手順に従ってください。エンジンを切り、ハンドブレーキをかけ、平地や下り坂ではギアを「R」に、上り坂では「L」に入れます。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["When parking, certain measures should be taken: 1. Engage the hand brake and turn off the engine. If you have a manual transmission, put the gearshift into reverse when on a level surface or downhill slope and into first gear when on an uphill slope. If you have an automatic transmission, put the gearshift into P. Additionally, place a brick or stone behind the wheels on steep slopes.", "駐車する場合、次の措置が必要です：1. 手ブレーキをかけ、エンジンを停止します。MTの場合は、平坦な地面や下り坂では逆転、上り坂では一速にギアシフトを入れます。ATの場合は、Pにギアシフトを入れます。急な坂道では、車輪の後ろにレンガや石を置いておく必要があります。"]
+}, {
+    "id": 138,
+    "engQuestion": "The owner of a motor vehicle (excluding two-wheeled vehicles) must secure a parking space for the vehicle that is not on a public road and is within 5 kilometers of the registered address or other designated base location from which the vehicle will be used.",
+    "jpQuestion": " 自動車（二輪車を除く）の所有者は、自動車を使用する住所や基準位置から5キロメートル以内の公道以外の場所に車両を駐車する場所を確保しなければなりません。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["If you own a car (excluding motorcycles), you are required to have a private parking space that is not on the public road and is located within 2 kilometers of your residence.", "自動車の所有者（二輪車を除く）は、使用する自動車の住所から2キロ以内に、公道上にない専用の駐車場を確保する必要があります。"]
+}, {
+    "id": 139,
+    "engQuestion": "The parking permit sticker for the automobile must be displayed on the rear window of the vehicle.",
+    "jpQuestion": "自動車の駐車許可ステッカーは、車両の後部窓に表示しなければなりません。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["When you receive an automobile parking certificate, you will also receive a parking place sticker from the chief of police. The parking place sticker must be affixed to the rear window of your automobile.", "あなたが自動車駐車証明書を受け取ると、警察署長から自動車駐車場ステッカーが発行されます。自動車駐車場ステッカーは、自動車のリアウィンドウに貼り付ける必要があります。"]
+}, {
+    "id": 140,
+    "engQuestion": "It is prohibited to load cargo onto the seats of a regular passenger vehicle.",
+    "jpQuestion": "一般的な乗用車のシートには、荷物を積むことは禁止されています。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["It is permissible to load cargo on seats, as long as it does not hinder the driver's ability to operate the vehicle, affect the stability of the vehicle, or block the view of the vehicle's direction indicators, license plate, brake lights, taillights, or other similar features.", "運転能力を損なう、車両の安定性を低下させる、方向指示器、ナンバープレート、ブレーキライト、テールライトなどの視界を妨げるような荷物の積み方をしない限り、シートに荷物を積んでもよいです。"]
+}, {
+    "id": 141,
+    "engQuestion": "The minimum number of people required to load and unload the cargo are allowed to ride in the cargo bed of a truck.",
+    "jpQuestion": "貨物の積み降ろしに必要な最低人数は、トラックの荷台に乗っても良い。",
+    "answer": false,
+    "hasImage": false,
+    "description": [" If the purpose is to observe the cargo, a minimum number of people may ride in the cargo bed.\n\n", "もし荷物を見ることが目的であれば、最低限の人数が荷台に乗ってもよいです。"]
+}, {
+    "id": 142,
+    "engQuestion": "When transporting goods on a large-size motorcycle, regular motorcycle, or moped, the load may extend up to 0.3 meters beyond both sides of the carrying device.",
+    "jpQuestion": "大型バイク、普通バイク、または原付きで荷物を運ぶ場合、積載装置の両側から最大0.3メートルまで貨物が突き出ていても構いません。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["The width of the cargo on mopeds or motorcycles must not exceed 0.15 meters on either side, and the length of the cargo must not exceed 0.3 meters.", "モペッドやオートバイでは、貨物の幅は左右0.15メートルを超えてはいけません。貨物の長さは0.3メートルを超えてはいけません。"]
+}, {
+    "id": 143,
+    "engQuestion": "The maximum allowable height for loading cargo onto regular motor vehicles is 3.8 meters from the ground.",
+    "jpQuestion": "通常の自動車については、地面から3.8メートルの高さまで荷物を積載することができます。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["It has been determined by the Public Safety Commission that a vehicle, including its cargo, should not exceed 4.1 meters. It is strongly recommended to adjust the amount of cargo carried based on road conditions.\n\n", "公安委員会は、荷物を含めた車両の長さが4.1メートルを超えてはならないと決定しています。道路の状況に応じて荷物の量を調整することを強くお勧めします。"]
+}, {
+    "id": 144,
+    "engQuestion": "When using a rope to tow a disabled vehicle, a regular motor vehicle is allowed to tow up to two vehicles at a time.",
+    "jpQuestion": "故障した車をロープで牽引する場合、一般自動車は最大2台の車両を牽引できます。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["When towing with a large vehicle, medium vehicle, quasi-medium vehicle, regular motor vehicle, or special heavy equipment, a maximum of two vehicles can be towed. When towing with a motorcycle or special light equipment, only one vehicle can be towed.\n", "大型車、中型車、準中型車、普通自動車、特殊自動車の牽引時には、最大2台の車両を牽引することができます。オートバイや特殊軽量機器を使用して牽引する場合は、1台の車両のみを牽引できます。"]
+}, {
+    "id": 145,
+    "engQuestion": "When using a rope to tow a disabled vehicle, a red cloth measuring at least 0.3 square meters must be attached to the rope.",
+    "jpQuestion": "トラブルのある車両をロープで牽引する場合、ロープに0.3平方メートル以上の赤い布を付ける必要があります。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["The towing vehicle must be connected to the towed vehicle by a strong and secure rope, and a white square cloth (0.3 meters or larger) must be attached to the rope.", "曳引車、牽引車には、強度が十分で堅牢なロープ等を使用し、牽引車と牽引される車両とを引きつなぎ、ロープ等には、白地に黒い字体の正方形の幅員が三十センチメートル以上の布を付けなければならない。"]
+}, {
+    "id": 146,
+    "engQuestion": "When towing a disabled vehicle by lifting its rear wheels, the steering wheel of the disabled vehicle must be secured in a fixed position.",
+    "jpQuestion": "トラブルのある車両をリアホイールを持ち上げて牽引する場合、トラブルのある車両のステアリングホイールは固定されている必要があります。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["When lifting the rear wheels, make sure to secure the steering wheel to ensure that the front wheels are aligned with the central axis of the disabled vehicle.\n\n", "後輪を持ち上げる場合は、ステアリングホイールをしっかりと固定し、前輪を故障した車両の中心軸に合わせるようにしてください。"]
+}, {
+    "id": 147,
+    "engQuestion": "In the event of a traffic accident, it is important to preserve the scene, and therefore, you should not move the vehicles or any injured persons until the police arrive.",
+    "jpQuestion": "事故の際には現場を保全することが重要です。そのため、警察が到着するまでは車両や負傷者を移動しないようにする必要があります。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["When an accident occurs, it is important to move the vehicle to a safe place to avoid obstructing traffic. If someone is injured, try to stop the bleeding using a gauze bandage or other materials and provide any other emergency assistance possible until medical help arrives.\n", "事故が発生した場合、交通を妨げない安全な場所に車両を移動することが重要です。もし誰かが負傷した場合は、ガーゼバンテージなどを使って出血を止め、医師や救急車が到着するまで可能な限りの緊急援助を提供する必要があります。"]
+}, {
+    "id": 148,
+    "engQuestion": "In a traffic accident where the other driver is at fault and you are not responsible, it is not necessary to report the accident to the police.",
+    "jpQuestion": "交通事故で相手の運転者が過失を犯し、自分自身が非過失であっても、警察に事故を報告する必要がありません。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["It is important to report any injuries sustained in a traffic accident to the police, even if they are minor. If one fails to notify the police, it may be difficult to obtain the necessary written traffic accident testimony when claiming insurance money, which can put one at a disadvantage later on.", "たとえ交通事故で負傷した傷が軽傷であっても、被害者は常に警察に報告する必要があります。警察に通報しなかった場合、保険金を請求する際に必要な交通事故の証言書を得ることができなくなり、後々不利になる可能性があります。"]
+}, {
+    "id": 149,
+    "engQuestion": "If you happen to be present at the scene of an accident, it is important to provide aid to any injured person and to move the vehicles involved in the accident, if possible.",
+    "jpQuestion": "もし事故現場に居合わせた場合、負傷者の救助や事故に関与する車両の移動をするなどの援助を行うべきです。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["If a person happens to be present at the scene of an accident, they should offer assistance to anyone who is injured or help move the vehicles involved in the accident.", "もしも誰かが事故現場に居合わせた場合、けがをした人を助けたり、事故車両を移動する手助けをするべきです。"]
+}, {
+    "id": 150,
+    "engQuestion": "Automobiles and mopeds are required to undergo periodic inspections.",
+    "jpQuestion": "自動車や原動機付き自転車は定期的な検査を受ける必要があります。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["All motor vehicles are required to undergo a mandatory safety inspection at predetermined intervals and must obtain a motor vehicle inspection certificate before they can be driven.\n", "すべての自動車は定められた間隔で強制的な安全検査を受け、運転する前に自動車検査証明書を取得する必要があります。"]
+}, {
+    "id": 151,
+    "engQuestion": "The inspection sticker displays the date (year and month) of the last inspection for the automobile.",
+    "jpQuestion": "検査ステッカーには自動車の前回の検査の日付（年と月）が表示されます。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["After an automobile passes the compulsory safety inspection, it will be granted a motor vehicle inspection certificate and an inspection sticker. The inspection sticker must be attached to the inside of the front windshield so that it can be easily seen from the front of the vehicle. It shows the month and year when the next inspection is due.\n", "自動車は定期的な安全検査を受けなければならず、運転する前に自動車検査証明書を取得しなければなりません。検査に合格した自動車には、自動車検査証明書と検査シールが発行されます。検査シールは、車の前面から容易に見える場所に、フロントガラスの内側に貼り付ける必要があります。検査シールには、次回検査の月と年が表示されます。"]
+}, {
+    "id": 152,
+    "engQuestion": "Automobiles that require inspection must have a valid motor vehicle inspection certificate, as well as a compulsory automobile liability insurance certificate or a mutual relief system insurance certificate.",
+    "jpQuestion": "検査が必要な自動車は、有効な自動車検査証明書に加えて、自賠責保険証明書または共済制度保険証明書を所持する必要があります。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["Vehicles that are subject to inspection must have a valid motor vehicle inspection certificate as well as mandatory automobile liability insurance or mutual aid insurance certificate.\n\n", "自動車検査を受ける必要がある車両は、有効な自動車検査証明書と、強制自動車損害賠償責任保険証明書または相互扶助保険証明書を保持しなければなりません。"]
+}, {
+    "id": 153,
+    "engQuestion": "Is it true or false that the owner of an automobile is not responsible for an accident caused by someone who took the vehicle without notice, even if the keys were not kept in a sufficiently secure place?",
+    "jpQuestion": "無断で自動車が盗まれて事故を起こした場合、鍵を十分に安全な場所に保管していなくても、自動車の所有者は責任を負わない。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["The owner, operator, or person responsible for a vehicle must not lend it to another person without careful consideration. If the borrower causes a traffic accident, the vehicle owner may be held responsible.", "自動車の所有者、使用者、または担当者は、十分な考慮なしに他の人に貸し出してはなりません。借り手が交通事故を起こした場合、車の所有者は責任を負うことがあります。"]
+}, {
+    "id": 154,
+    "engQuestion": "Mandatory insurance is required for automobiles, but it is not necessary for mopeds.",
+    "jpQuestion": "自動車は強制保険に加入する必要がありますが、原付は必要ありません。",
+    "answer": false,
+    "hasImage": false,
+    "description": [" In Japan, all vehicles are mandated to have either compulsory insurance or mutual relief system insurance.", "日本では、全ての車両に対して自賠責保険もしくは共済保険の加入が義務付けられています。"]
+}, {
+    "id": 155,
+    "engQuestion": "It is advisable to obtain optional insurance to be prepared for unforeseen circumstances.",
+    "jpQuestion": "予期せぬ事態に備えるため、任意保険に加入することが望ましいです。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["It is advisable to purchase optional liability insurance to cover significant reparations, accidents that result in property damage, and single-car accidents.", "大きな損害賠償、財産損害を伴う事故、単独車両事故に備えて、任意保険を購入することが最善です。"]
+}, {
+    "id": 156,
+    "engQuestion": "It can be dangerous to decide on a route before setting out, as it may divert your attention from the road. It is better to avoid having a predetermined route and instead proceed freely on whichever road you prefer.",
+    "jpQuestion": "出発前にルートを決めることは注意を逸らす可能性があるため危険です。予め決めたルートよりも自由に進み、好きな道を選ぶ方が良いでしょう。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["If you start your journey without planning your route, you may become distracted trying to navigate and constantly searching for directions, which could make you a danger to yourself and others on the road.\n\n", "もし目的地へ向かう際にルートを計画せずに出発すると、途中で方向を探すことに注意が向き、常に道順を探し続けなければならなくなります。これはあなたが自分自身や他の人にとって危険な存在になる可能性があります。"]
+}, {
+    "id": 157,
+    "engQuestion": "When planning a route, it is important to select a course that avoids excessive turns and utilizes wide roads, even if it may not be the shortest way to your destination.",
+    "jpQuestion": "ルートを計画する際には、目的地への最短経路であるとは限らなくても、余分な曲がり角を避け、広い道路を利用するようなコースを選択することが重要です。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["Opting for the shortest route may not always be the most time-efficient option, as it can lead to confusion and delay if you get lost or encounter narrow roads. It is recommended to choose a straightforward and easy-to-remember route instead.", "最短のルートを選ぶことは、道に迷ったり、道が狭い場合には混乱や遅延を引き起こす可能性があるため、常に時間効率的なオプションとは限りません。かわりに、分かりやすく覚えやすいルートを選択することをお勧めします。"]
+}, {
+    "id": 158,
+    "engQuestion": "When planning a route for motorcycle touring, special attention should be given to beginners and inexperienced riders.",
+    "jpQuestion": "バイクツーリングのルートを計画する際には、初心者や経験の浅いライダーに特別な注意を払うべきです。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["\nIt is recommended for the leader to take the front position in a group ride, while the sub-leader takes the rear position. This way, the beginners in the middle can be monitored and guided in case the group gets separated.", "リーダーは先頭に乗り、サブリーダーは最後尾に乗るべきです。これにより、中間の初心者の様子を監視し、グループが分かれた場合には指導を行うことができます。"]
+}, {
+    "id": 159,
+    "engQuestion": "It is recommended to avoid riding in groups during motorcycle touring, so that each individual can ride according to their skill level and physical strength.",
+    "jpQuestion": "バイクツーリング中は、個々のスキルレベルや体力に合わせて適切に進むために、グループでの走行を避けるのが最適です。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["It is advisable to travel in a group while touring on motorcycles, with the leader positioned at the front and the sub-leader at the rear. This way, beginners in the middle can be monitored and guided if the group gets separated.\n\n", "オートバイでのツーリングでは、リーダーが先頭に、サブリーダーが最後尾に位置し、初心者が中央にいるグループでの旅行をお勧めします。オートバイのツーリンググループは、単一列車で走行することも推奨されます。"]
+}, {
+    "id": 160,
+    "engQuestion": "Regular automobiles are allowed to drive up to a maximum speed of 100 kilometers per hour in the through lanes of national expressways.",
+    "jpQuestion": "高速道路の通行車線において、一般の自動車に対して、最高速度制限は時速100キロメートルです。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["Vehicles such as large-size trucks, three-wheeled vehicles, special heavy equipment, and towing vehicles are restricted to a maximum speed of 80 km/h.", "大型トラック、三輪車、特殊重機器、牽引車は最高速度80km/hに制限されています。"]
+}, {
+    "id": 161,
+    "engQuestion": "A recommended practice when driving on through lanes of expressways is to use the solid white line on the right side of the road as a guide, and drive slightly to the right of the center of the lane.",
+    "jpQuestion": "高速道路の通行車線では、道路右側の実線を目印にし、車線の中央よりもやや右側を走行することが推奨されます。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["When driving on an expressway, the same lane usage rules apply as on regular roads. Follow the solid white line on the left side of the lane as a guide, and stay slightly to the left of the center of the lane.", "高速道路のメインの通過車線におけるレーンの使用は一般道路と同様です。道路左側の実線をガイドにし、レーンの中央よりもやや左に進んでください。"]
+}, {
+    "id": 162,
+    "engQuestion": "If your vehicle breaks down on the expressway, it is recommended that you take all necessary safety precautions before leaving the vehicle to wait at a safe location away from the road and the vehicle.",
+    "jpQuestion": "もし高速道路で車が故障した場合、必要な安全対策を講じた後、車を離れて道路や車から離れた安全な場所で待つことが推奨されています。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["Staying on the expressway after an accident or breakdown can be dangerous as it may cause collisions with following vehicles. Therefore, after taking necessary measures to prevent danger, the driver and passengers should leave the vehicle and move to a safe location outside of the safety fence.", "高速道路上にとどまることは危険です。なぜなら、後続車両と衝突する可能性があるためです。そのため、危険を回避するために必要な措置を講じた後、運転手と乗客は車両を離れ、安全フェンスの外側の安全な場所に移動する必要があります。"]
+}, {
+    "id": 163,
+    "engQuestion": "When entering the main through lanes of the expressway, it is important to be cautious and check the traffic ahead and behind you.",
+    "jpQuestion": "高速道路のメインレーンに入ろうとする際は、前方および後方の交通に十分注意してください。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["If there is a designated acceleration lane when entering the expressway, it is recommended to utilize it. Once you have accelerated sufficiently, merge smoothly into traffic without disrupting the flow.", "もし入り口に加速車線がある場合は、それを利用することが推奨されます。十分に加速した後、流れに支障をきたさずにスムーズに車線に合流してください。"]
+}, {
+    "id": 164,
+    "engQuestion": "When driving at high speeds in the rain, your vehicle may experience hydroplaning, causing the tires to lose contact with the road surface and making it difficult to steer and brake.",
+    "jpQuestion": "高速道路を雨の中、高速で走行している場合、ハイドロプレーニング現象が起こることがあります。タイヤが路面から離れ、ステアリングやブレーキがきかなくなることがあります。",
+    "answer": true,
+    "hasImage": false,
+    "description": ["At high speeds, driving on wet roads can cause a phenomenon known as hydroplaning, where a layer of water builds up between the tires and the road surface. This is similar to water skiing, where the vehicle glides on top of the water. When hydroplaning, the steering and brakes are ineffective, and the vehicle becomes difficult to control.", "高速道路での濡れた路面での運転では、タイヤと路面の間に水がたまり、ハイドロプレーニング現象が発生することがあります。これは、水上スキーに似ており、車両が水の上に滑るようになります。ハイドロプレーニング中には、ハンドルとブレーキが効かず、車両をコントロールすることが困難になります。"]
+}, {
+    "id": 165,
+    "engQuestion": "Expressway driving typically requires fewer rest breaks compared to general road driving due to the smoother road conditions and less frequent need to maneuver the vehicle, which can help reduce fatigue.",
+    "jpQuestion": "高速道路を運転する場合、一般道路と比較して道路状況がよりスムーズで、車両の操作が少なく疲れにくいため、休憩を取る必要が少なくなることがあります。",
+    "answer": false,
+    "hasImage": false,
+    "description": ["Driving on the expressway can cause psychological fatigue due to the constant tension, and may cause drowsiness due to the monotonous road environment. Take regular rest stops at service areas to take a nap or move around to alleviate drowsiness.\n", "高速道路を運転することは、継続的な緊張感による心理的疲れを引き起こす可能性があり、単調な道路環境による眠気の原因になることがあります。サービスエリアで定期的に休憩を取って、仮眠をとったり動いたりして眠気を解消しましょう。"]
+}]
